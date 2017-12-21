@@ -6,6 +6,7 @@ tagline: "a Jekyll theme for the Office of Performance Improvement & Innovation"
 menu:
 - {name: 'Innovation', folder: 'pages', file: 'civic_innovation_about.html'}
 - {name: 'Performance Improvement', folder: 'pages', file: 'performance_improvement_about.html'}
+- {name: 'Projects', folder: 'pages', file: 'projects.html'}
 - {name: 'Strategic Plan', folder: 'pages', file: 'strategic_plan.html'}
 - {name: 'Mission & Core Values', folder: 'pages', file: 'mission_core_values.html'}
 - {name: 'Team', folder: 'pages', file: 'team.html'}
@@ -14,7 +15,5 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/OPI2Lou'}
-- {icon: 'facebook', link: ''}
-- {icon: 'instagram', link: ''}
 - {icon: 'envelope', link: 'mailto:'}
 - {icon: 'rss-square', link: 'feed.xml'}
