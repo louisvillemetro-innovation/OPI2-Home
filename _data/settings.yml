@@ -1,0 +1,20 @@
+title:  "OPI2"
+tagline: "a Jekyll theme for the Office of Performance Improvement & Innovation"
+
+# Authors documented under _data
+
+menu:
+- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
+- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link: 'https://twitter.com/opi2'}
+- {icon: 'facebook', link: ''}
+- {icon: 'instagram', link: ''}
+- {icon: 'envelope', link: 'mailto:'}
+- {icon: 'rss-square', link: 'feed.xml'}
