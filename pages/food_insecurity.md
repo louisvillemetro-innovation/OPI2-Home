@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Inclusion
+title: Food Insecurity
 ---
 
 Our digital inclusion efforts focus on three areas of work: improving connectivity, teaching digital skills and providing hardware. We leverage a number of programs and relationship to
@@ -15,10 +15,4 @@ The civic innovation team has been attending back-to-school events, and other co
 
 o Gigabit Experience Center
 
-A public private partnership with PNC Bank that resulted in the creation of a space in Louisville, wired with gigabit speed internet access, with exhibits and opportunities for citizens to gain hands-on experience with this new technology. This allows us to engage all of Louisville regarding the potential of gigabit internet speeds and the importance of understanding and embracing technology. It collaboratively supports local business and economic development to achieve optimum efficiency and effectiveness using collective community resources, and empowers individuals, business concerns and organizations with knowledge and skills. Strategically focused on economic transformation of under-served areas of West Louisville. 
-
-https://louisvilleky.gov/news/russell-neighborhood-host-gigabit-experience-center
-https://louisvilleky.gov/news/louisville-metro-housing-authority-selected-join-first-connecthome-nation-cohort
-https://louisvilleky.gov/news/city-announces-website-measure-internet-speeds
-https://louisvilleky.gov/news/mayor-announces-more-free-wi-fi-part-west-louisville-neighborhood
-https://louisvilleky.gov/news/city-announces-website-measure-internet-speeds
+A public private partnership with PNC Bank that resulted in the creation of a space in Louisville, wired with gigabit speed internet access, with exhibits and opportunities for citizens to gain hands-on experience with this new technology. This allows us to engage all of Louisville regarding the potential of gigabit internet speeds and the importance of understanding and embracing technology. It collaboratively supports local business and economic development to achieve optimum efficiency and effectiveness using collective community resources, and empowers individuals, business concerns and organizations with knowledge and skills. Strategically focused on economic transformation of under-served areas of West Louisville.
