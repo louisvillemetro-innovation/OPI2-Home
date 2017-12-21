@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Data Governance
+layout: page
 ---
 
 Curriculum, Training, and Presentations for 50+ cross departmental employees that deal with data on topics around the data lifecycle, quality, collection, storage, metadata, visualization, business intelligence, and partner collaboration including data sharing and open data.

@@ -1,9 +1,12 @@
 ---
+title: About the Author
+date: 2016-04-04 00:00:00 Z
+categories:
+- facts
+tags:
+- sample
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: facts
-tags: [sample]
+author: Paul Le
 image:
   feature: arctic-2.jpg
 ---

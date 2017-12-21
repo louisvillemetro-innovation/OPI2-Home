@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Resources
+layout: page
 ---
+
 {% for post in site.categories.resources %}
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image.feature %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.feature }})"{% endif %}>

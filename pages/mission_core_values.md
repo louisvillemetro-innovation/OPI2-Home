@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Mission & Core Values
+layout: page
 ---
 
 Our Mission

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Strategic Plan
+layout: page
 ---
 
 Our Strategic Plan is a “living and breathing” document. Hence, it will continue to evolve with time; as goals are accomplished, new assignments are made and core missions are realigned to adapt to the changing needs of the city and its citizens. However, the plan will also evolve because of discoveries ---as we acquire a better understanding of our strengths and weaknesses; and yes, even as we learn from our mistakes.

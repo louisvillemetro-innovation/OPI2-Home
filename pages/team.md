@@ -1,4 +1,5 @@
 ---
-layout: page
 title: The Team
+layout: page
 ---
+

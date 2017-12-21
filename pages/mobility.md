@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Mobility
+layout: page
 ---
 
 The Smart City will also be a platform for Advanced Traffic Systems (ATS) and Intelligent Traffic Systems (ITS), culminating in self-driving vehicles. To prepare Louisville Metro’s traffic control for the future, we are focused on data efforts.
