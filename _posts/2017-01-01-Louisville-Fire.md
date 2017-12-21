@@ -1,9 +1,14 @@
 ---
+title: Louisville Fire Department & LouieStat
+date: 2017-01-01 00:00:00 Z
+categories:
+- Louiestat
+tags:
+- introduction
+- department
 layout: post
-title: "Louisville Fire Department & LouieStat"
-author: "Matthew Gotth-Olsen"
-categories: Louiestat
-tags: [introduction,department]
+author: Matthew Gotth-Olsen
 image:
   feature: lfd_louiestat.jpg
 ---
+
