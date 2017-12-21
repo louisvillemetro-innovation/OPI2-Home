@@ -1,9 +1,13 @@
 ---
+title: Working With Jekyll
+date: 2016-11-11 00:00:00 Z
+categories:
+- documentation
+tags:
+- documentation
+- sample
 layout: post
-title: "Working With Jekyll"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+author: Paul Le
 image:
   feature: arctic-1.jpg
 ---

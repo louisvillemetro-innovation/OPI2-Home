@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Continuous Improvement
+layout: page
 ---
 
 What is Continuous Improvement (CI)?

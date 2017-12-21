@@ -1,9 +1,13 @@
 ---
+title: Welcome to the Office of Performance Improvement & Innovation!
+date: 2017-01-01 00:00:00 Z
+categories:
+- introduction
+tags:
+- introduction
+- department
 layout: post
-title: "Welcome to the Office of Performance Improvement & Innovation!"
-author: "Matthew Gotth-Olsen"
-categories: introduction
-tags: [introduction,department]
+author: Matthew Gotth-Olsen
 image:
   feature: office-door.jpg
 ---

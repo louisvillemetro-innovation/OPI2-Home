@@ -1,9 +1,12 @@
 ---
+title: Text Formatting
+date: 2016-09-09 00:00:00 Z
+categories:
+- sample
+tags:
+- sample
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+author: Paul Le
 image:
   feature: cuba-4.jpg
 ---

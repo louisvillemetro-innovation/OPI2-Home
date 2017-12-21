@@ -1,9 +1,12 @@
 ---
+title: Math and Code Formatting
+date: 2016-08-08 00:00:00 Z
+categories:
+- sample
+tags:
+- sample
 layout: post
-title: "Math and Code Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+author: Paul Le
 image:
   feature: nature-1.jpg
 ---

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Smart Apartment
+layout: page
 ---
 
 The future of the Smart City is constantly being redefined, and by extension our relationship with citizens. The advent of the Smart Home offers an opportunity to connect with our constituents in new and exciting ways that weren't previously possible. The following projects illustrate our strategy of testing different technologies to democratize government data (preferably Open Data) and put it in useful contextual applications for our citizens.

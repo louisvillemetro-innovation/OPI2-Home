@@ -1,9 +1,13 @@
 ---
+title: Installation Guide
+date: 2016-12-12 00:00:00 Z
+categories:
+- documentation
+tags:
+- documentation
+- sample
 layout: post
-title: "Installation Guide"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+author: Paul Le
 image:
   feature: city-2.jpg
 ---

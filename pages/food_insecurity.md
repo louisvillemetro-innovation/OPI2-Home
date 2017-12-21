@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Food Insecurity
+layout: page
 ---
 
 Our digital inclusion efforts focus on three areas of work: improving connectivity, teaching digital skills and providing hardware. We leverage a number of programs and relationship to

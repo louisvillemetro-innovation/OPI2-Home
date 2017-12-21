@@ -1,6 +1,7 @@
 ---
+title: Post Content Styles
+date: 2013-01-01 00:00:00 Z
 layout: post
-title: "Post Content Styles"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
