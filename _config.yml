@@ -1,94 +1,84 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
+---
 title: Office of Performance Improvement & Innovation
-email: ipoall@louisvilleky.government
-description: >
-  The citizens of Louisville deserve the best city government in the country and Mayor Greg Fischer’s administration is committed to creating it. The Office of Performance Improvement & Innovation, established in January 2012, is helping the Mayor pursue this goal by focusing on two fundamental areas, Continuous Performance Improvement, and Innovation & Technology.
-baseurl: # the base hostname & protocol for your site
-twitter_username: opi2lou
-github_username:  louisvillemetro
-image: /assets/img/home.jpg
-medium_url: https://medium.com/louisville-metro-opi2
-zilker_theme: dark
-theme: minima
-# dark is the default, light will also work.
-
-nav_from_collection:
-
-# Build settings
-markdown: kramdown
+timezone: UTC
 collections:
-  projects:
-    title: Projects
-    output: false
-  blog_posts:
-    title: blog
-    output: true
-  press:
-    title: Press mentions
-    output: false
   events:
     title: Events
-    output: false
-  people:
-    title: Staff
     output: false
   initiatives:
     title: Initiatives
     output: true
-    permalink: /initiatives/:path/
-
+    permalink: "/initiatives/:path/"
+  posts:
+    title: Posts
+    output: true
+  press:
+    title: Press mentions
+    output: false
+  projects:
+    title: Projects
+    output: false
+  people:
+    title: Staff
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+  blog_posts:
+    title: blog
+    output: true
 defaults:
 - scope:
     path: ''
     type: initiatives
   values:
-    layout: 'sidebar-page'
-    nav_from_collection: 'Initiatives'
+    layout: sidebar-page
+    nav_from_collection: Initiatives
 - scope:
     path: ''
     type: projects
   values:
-    image_path: '/assets/img/projects/project-tile-placeholder.jpg'
+    image_path: "/assets/img/projects/project-tile-placeholder.jpg"
+email: ipoall@louisvilleky.government
+description: 'The citizens of Louisville deserve the best city government in the country
+  and Mayor Greg Fischer’s administration is committed to creating it. The Office
+  of Performance Improvement & Innovation, established in January 2012, is helping
+  the Mayor pursue this goal by focusing on two fundamental areas, Continuous Performance
+  Improvement, and Innovation & Technology.
 
+'
+baseurl: 
+twitter_username: opi2lou
+github_username: louisvillemetro
+image: "/assets/img/home.jpg"
+medium_url: https://medium.com/louisville-metro-opi2
+zilker_theme: dark
+theme: minima
+nav_from_collection: 
+markdown: kramdown
 gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
-
-# Jekyll SEO Tag
-# See https://github.com/jekyll/jekyll-seo-tag
-
-
-# We specify the directory for Jekyll so we can use @imports.
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-redirect-from
 sass:
   sass_dir: assets/stylesheets/
 permalink: pretty
 exclude:
-  - node_modules
-  - gulpfile.js
-  - Gemfile
-  - Gemfile.lock
-  - npm-debug.log
-  - /screenshots
-  - /assets/stylesheets/bourbon
-  - /assets/stylesheets/bourbon-neat
-  - /assets/uswds/stylesheets
-  - /assets/uswds/js
-  - .bundle
-  - /vendor
-  - _bourbon
-  - _bourbon-neat
-  - _uswds
-
-
-
+- node_modules
+- gulpfile.js
+- Gemfile
+- Gemfile.lock
+- npm-debug.log
+- "/screenshots"
+- "/assets/stylesheets/bourbon"
+- "/assets/stylesheets/bourbon-neat"
+- "/assets/uswds/stylesheets"
+- "/assets/uswds/js"
+- ".bundle"
+- "/vendor"
+- _bourbon
+- _bourbon-neat
+- _uswds
 twitter:
   username: opi2lou
-logo: /img/dti-fellows-logo.png
+logo: "/img/dti-fellows-logo.png"

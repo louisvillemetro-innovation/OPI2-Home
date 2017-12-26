@@ -1,7 +1,8 @@
 ---
 title: About
-lede_markdown: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-permalink: /initiatives/
+permalink: "/initiatives/"
+lede_markdown: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
 ---
 
 <div class="hidden-md hidden-lg hidden-xl" role="menu">

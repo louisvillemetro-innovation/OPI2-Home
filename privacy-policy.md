@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
+permalink: "/privacy"
 layout: full-page
 sitemap: false
-permalink: /privacy
 ---
 
 ## Privacy Policy

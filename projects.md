@@ -1,5 +1,6 @@
 ---
 title: Projects
+permalink: "/projects/"
 collection: projects
-permalink: /projects/
 ---
+
