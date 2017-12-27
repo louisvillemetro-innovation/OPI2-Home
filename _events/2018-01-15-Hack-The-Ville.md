@@ -19,6 +19,5 @@ summary: Learn how Design, Technology, and Innovation Fellows Celine Thibault an
   Laura Trujillo and Public Information Specialist Ashlee Harris are introducing people-oriented
   language to connect residents and services.
 >>>>>>> master:_events/2017-11-10-design-week-content-strategy.md
-list_until_date: 2017-30-11
+list_until_date: 2018-01-25
 ---
-
