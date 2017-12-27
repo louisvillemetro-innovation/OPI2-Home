@@ -2,6 +2,10 @@
 title: Office of Performance Improvement & Innovation
 timezone: UTC
 collections:
+  blog_posts:
+    title: Blog
+    output: true
+    permalink: "/blog_posts/:path/"
   events:
     title: Events
     output: false
@@ -28,10 +32,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  blog_posts:
-    title: Blog
-    output: true
-    permalink: "/blog_posts/:path/"
 defaults:
 - scope:
     path: ''
@@ -58,14 +58,14 @@ description: 'The citizens of Louisville deserve the best city government in the
   Improvement, and Innovation & Technology.
 
 '
-baseurl:
+baseurl: 
 twitter_username: opi2lou
 github_username: louisvillemetro
 image: "/assets/img/home.jpg"
 medium_url: https://medium.com/louisville-metro-opi2
 zilker_theme: dark
 theme: minima
-nav_from_collection:
+nav_from_collection: 
 markdown: kramdown
 plugins:
 - jekyll-seo-tag
