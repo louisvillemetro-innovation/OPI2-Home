@@ -58,14 +58,14 @@ description: 'The citizens of Louisville deserve the best city government in the
   Improvement, and Innovation & Technology.
 
 '
-baseurl: 
+baseurl:
 twitter_username: opi2lou
 github_username: louisvillemetro
 image: "/assets/img/home.jpg"
 medium_url: https://medium.com/louisville-metro-opi2
 zilker_theme: dark
 theme: minima
-nav_from_collection: 
+nav_from_collection:
 markdown: kramdown
 plugins:
 - jekyll-seo-tag

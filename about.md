@@ -24,6 +24,4 @@ staff_section_headline: Staff
 fellows_section_headline: Current Innovation Fellows
 ---
 
-## Office of Performance Improvement
-
-## Office of Civic Innovation & Technology
+Organizational chart goes here.
