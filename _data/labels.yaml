@@ -20,8 +20,8 @@ site_nav:
     path: /collaborate/
   - label: Initiatives
     path: /initiatives/
-  - label: Projects
-    path: /projects/
+  - label: Innovation
+    path: /innovation/
   - label: Events
     path: /events/
   - label: LouieLab

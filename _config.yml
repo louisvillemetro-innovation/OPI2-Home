@@ -9,6 +9,10 @@ collections:
     title: Initiatives
     output: true
     permalink: "/initiatives/:path/"
+  Innovation:
+    title: Innovation
+    output: true
+    permalink: "/innovation/:path/"
   posts:
     title: Posts
     output: true
@@ -25,8 +29,9 @@ collections:
     title: Uploads
     output: true
   blog_posts:
-    title: blog
+    title: Blog
     output: true
+    permalink: "/blog_posts/:path/"
 defaults:
 - scope:
     path: ''
@@ -34,6 +39,12 @@ defaults:
   values:
     layout: sidebar-page
     nav_from_collection: Initiatives
+- scope:
+    path: ''
+    type: innovation
+  values:
+    layout: sidebar-page
+    nav_from_collection: Innovation
 - scope:
     path: ''
     type: projects
@@ -47,16 +58,16 @@ description: 'The citizens of Louisville deserve the best city government in the
   Improvement, and Innovation & Technology.
 
 '
-baseurl: 
+baseurl:
 twitter_username: opi2lou
 github_username: louisvillemetro
 image: "/assets/img/home.jpg"
 medium_url: https://medium.com/louisville-metro-opi2
 zilker_theme: dark
 theme: minima
-nav_from_collection: 
+nav_from_collection:
 markdown: kramdown
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from

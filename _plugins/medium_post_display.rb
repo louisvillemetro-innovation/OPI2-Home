@@ -11,7 +11,7 @@ Feedjira::Feed.fetch_and_parse("https://medium.com/feed/louisville-metro-opi2").
         title = e[:title]
         content = e[:content]
         guid = e[:url]
-        path = "./blog_posts/" + title + ".md"
+        path = "./_blog_posts/" + title + ".md"
         path = site.in_source_dir(path)
         doc = Jekyll::Document.new(path, { :site => site, :collection => jekyll_coll })
         doc.data['title'] = title;

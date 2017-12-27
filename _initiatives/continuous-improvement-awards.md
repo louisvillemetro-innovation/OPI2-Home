@@ -1,7 +1,6 @@
 ---
-title: Information
-position: 1
+title: Continuous Improvement Awards
+position: 3
 layout: redirect
 redirect_to: "/initiatives"
 ---
-
