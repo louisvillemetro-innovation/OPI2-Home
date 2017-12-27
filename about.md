@@ -23,5 +23,3 @@ goals_section_headline: Our Goals
 staff_section_headline: Staff
 fellows_section_headline: Current Innovation Fellows
 ---
-
-Organizational chart goes here.
