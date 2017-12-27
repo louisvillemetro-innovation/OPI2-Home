@@ -24,8 +24,8 @@ project_tiles_button_text: See all projects
 project_tiles_button_path: http://projects.lsvll.io/
 people_headline: By the People, for the People
 people_lede_markdown: 'Government is not an abstract institution or a concept. Our
-  government is us. Meet a few of the newest Design, Technology, & Innovation Fellows
-  who have signed on for tours of duty:'
+  government is us. Meet a few of the newest team members of the
+  Office of Performance Improvement & Innovation who have joined our mission.'
 people_button_text: Meet the team
 people_button_path: "/about/"
 events_headline: Where We'll Be
@@ -42,4 +42,3 @@ press_mentions_lede_markdown: Press and interviews about the program and project
 press_mentions_button_text: Read all
 press_mentions_button_path: "/press/"
 ---
-
