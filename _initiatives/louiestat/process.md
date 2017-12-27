@@ -1,7 +1,7 @@
 ---
 title: Process
-lede_markdown: The LouieStat Program & Process
 position: 1
+lede_markdown: The LouieStat Program & Process
 ---
 
 LouieStat launched in January 2012 with an ambitious goal of “on-boarding” nine departments within the first year. In 2013, LouieStat will add nine more departments. To get a department "on-board”, Office of Performance Improvement staff meet with the department’s Leadership Team regularly to understand what the department does and identify the most appropriate KPIs (Key Performance Indicators) for what they do. To identify their KPIs, OPI helps departments answer two critical questions:
