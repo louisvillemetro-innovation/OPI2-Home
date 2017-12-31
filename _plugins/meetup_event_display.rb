@@ -1,17 +1,18 @@
 require 'feedjira'
 module Jekyll
-  class MediumPostDisplay < Generator
+  class MeetupPostDisplay < Generator
     safe true
     priority :high
 def generate(site)
-      jekyll_coll = Jekyll::Collection.new(site, 'blog_posts')
-      site.collections['blog_posts'] = jekyll_coll
-Feedjira::Feed.fetch_and_parse("https://medium.com/feed/louisville-metro-opi2").entries.each do |e|
-        p "Title: #{e.title}, published on Medium #{e.url} #{e}"
+      jekyll_coll = Jekyll::Collection.new(site, 'events')
+      site.collections['_events'] = jekyll_coll
+Feedjira::Feed.fetch_and_parse("https://www.meetup.com/Louisville-Civic-Data-Alliance/events/rss/").entries.each do |e|
+        p "#{e.title}, published on Meetup #{e.url} #{e}"
         title = e[:title]
-        content = e[:content]
-        guid = e[:url]
-        path = "./_blog_posts/" + title + ".md"
+        content = e[:description]
+        guid = e[:guid isPermalink]
+        pubdata = e[:pubDate]
+        path = "./_events/" + title + ".md"
         path = site.in_source_dir(path)
         doc = Jekyll::Document.new(path, { :site => site, :collection => jekyll_coll })
         doc.data['title'] = title;

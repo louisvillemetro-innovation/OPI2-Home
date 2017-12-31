@@ -7,7 +7,7 @@ def generate(site)
       jekyll_coll = Jekyll::Collection.new(site, 'blog_posts')
       site.collections['blog_posts'] = jekyll_coll
 Feedjira::Feed.fetch_and_parse("https://medium.com/feed/louisville-metro-opi2").entries.each do |e|
-        p "Title: #{e.title}, published on Medium #{e.url} #{e}"
+        p "#{e.title}, published on Medium #{e.url} #{e}"
         title = e[:title]
         content = e[:content]
         guid = e[:url]
