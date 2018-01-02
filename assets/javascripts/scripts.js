@@ -34,7 +34,33 @@
    });
  }
 
+ var parseMediumJSON = function(post_rows) {
+   // max 10 posts
+   post_rows = post_rows || 10;
 
+   // get the template
+   var template_markup = $('#project-template').html();
+
+   // get the data
+   $.getJSON('https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2Flouisville-metro-opi2', function(posts) {
+     for (var i = 0; i < posts.length; ++i) {
+       var post = posts[i];
+       // for each post, until we hit max
+       // fill out the variables
+       if (i < post_rows ) {
+         var thisInstance = $(template_markup);
+           thisInstance.find('.tile-title').text(post.title);
+           thisInstance.find('.tile-subtitle').text(post.subtitle);
+           thisInstance.find('.tile-link').attr('href', post.url);
+           thisInstance.find('.tile-img').css('background-image', 'url(' + post.img +')');
+           thisInstance.find('.tile-date').text(post.date);
+           thisInstance.find('.tile-excerpt').text(post.excerpt);
+         $('#post-container').append(thisInstance);
+         // and append to the container
+       }
+     }
+   });
+ }
 
 function togglePressed(element) {
 

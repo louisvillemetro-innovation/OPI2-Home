@@ -57,12 +57,12 @@ layout: default
   button_text=page.events_button_text
   button_path=page.events_button_path %}
 
-<!-- {% include page-section--medium.html
+{% include page-section--medium.html
   section_headline=page.medium_headline
   section_lede=page.medium_lede_markdown
   rows=1
   button_text=page.medium_button_text
-  button_path=page.medium_button_path %} -->
+  button_path=page.medium_button_path %}
 
 {% assign press_mentions = site.press | sort_by: "date" | reverse %}
 {% include page-section--press.html
