@@ -4,19 +4,20 @@ module Jekyll
     safe true
     priority :high
 def generate(site)
-      jekyll_coll = Jekyll::Collection.new(site, 'events')
-      site.collections['_events'] = jekyll_coll
-Feedjira::Feed.fetch_and_parse("https://www.meetup.com/Louisville-Civic-Data-Alliance/events/rss/").entries.each do |e|
-        p "#{e.title}, published on Meetup #{e.url} #{e}"
+      jekyll_coll = Jekyll::Collection.new(site, 'cda-events')
+      site.collections['cda-events'] = jekyll_coll
+Feedjira::Feed.fetch_and_parse("https://www.meetup.com/Louisville-Civic-Data-Alliance/events/atom/").entries.each do |e|
+        p "Meetup: #{e.title}, #{e.updated} #{e}"
         title = e[:title]
-        content = e[:description]
-        guid = e[:guid isPermalink]
-        pubdata = e[:pubDate]
-        path = "./_events/" + title + ".md"
+        summary = e[:content]
+        guid = e[:url]
+        updated = e[:updated]
+        path = "./_cda-events/" + title + ".md"
         path = site.in_source_dir(path)
         doc = Jekyll::Document.new(path, { :site => site, :collection => jekyll_coll })
         doc.data['title'] = title;
-        doc.data['feed_content'] = content;
+        doc.data['event_time'] = updated;
+        doc.data['summary'] = summary;
         jekyll_coll.docs << doc
       end
     end
