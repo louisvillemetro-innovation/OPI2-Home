@@ -1,14 +1,10 @@
 ---
 title: About
+position: 0
 permalink: "/initiatives/"
 ---
 
-<div class="hidden-md hidden-lg hidden-xl" role="menu">
-{% assign new_collection = site.collections | where: "title", page.nav_from_collection | first %}
-{% assign items = new_collection.docs | sort: "url" | sort: "position" %}
-{% assign base_path = page.nav_from_collection | downcase | prepend: "/_" | append: "/"  %}
-{% include recursive-nav.html items=items base_path=base_path  %}
-</div>
+
 
 ### What is Continuous Improvement (CI)?
 

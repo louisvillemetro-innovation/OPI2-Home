@@ -1,5 +1,5 @@
 ---
-title: 'Civic Data Alliance: HackTheVille'
+title: 'Civic Data Alliance: Hack The Ville'
 event_time: Jan. 16th, 6:00pm - 10:00pm
 location: LouieLab
 address: |

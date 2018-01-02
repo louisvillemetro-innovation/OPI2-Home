@@ -2,10 +2,6 @@
 title: Office of Performance Improvement & Innovation
 timezone: UTC
 collections:
-  blog_posts:
-    title: Blog
-    output: true
-    permalink: "/blog_posts/:path/"
   events:
     title: Events
     output: false
@@ -13,7 +9,7 @@ collections:
     title: Initiatives
     output: true
     permalink: "/initiatives/:path/"
-  Innovation:
+  innovation:
     title: Innovation
     output: true
     permalink: "/innovation/:path/"
