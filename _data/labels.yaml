@@ -16,8 +16,8 @@ site_nav:
     path: /
   - label: About Us
     path: /about/
-  - label: Collaborate
-    path: /collaborate/
+  - label: Posts
+    path: /posts/
   - label: Initiatives
     path: /initiatives/
   - label: Innovation
