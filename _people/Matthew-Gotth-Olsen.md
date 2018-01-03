@@ -6,4 +6,5 @@ bio: 'Matthew Gotth-Olsen is an Innovation Project Manager and has an extensive 
 '
 photo_path: "/assets/img/staff/matthew-gotth-olsen.jpg"
 role: staff
+agency: oci
 ---

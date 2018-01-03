@@ -6,4 +6,5 @@ bio: 'Carmen Moreno-Rivera joined Louisville Metro Government in November 2017 a
 '
 photo_path: "/assets/img/staff/carmen-moreno-rivera.jpg"
 role: staff
+agency: opi
 ---

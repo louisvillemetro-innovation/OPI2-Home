@@ -6,4 +6,5 @@ bio: 'Laura joined the Office of Performance Improvement & Innovation in January
 '
 photo_path: "/assets/img/staff/laura-torres.jpg"
 role: staff
+agency: opi
 ---

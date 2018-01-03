@@ -1,0 +1,18 @@
+<section class="section--{{ include.section_theme }}">
+    <div class="row start-xs">
+      {% if include.rows %}
+        {% assign row_limit = include.rows | times: 4 %}
+      {% else %}
+        {% assign row_limit = nil %}
+      {% endif %}
+      {% for person in include.people limit:row_limit %}
+        <div class="person col-md-3 col-sm-6 col-xs-12 center-xs">
+          <img class="person-pic" src="{{ site.baseurl }}{{ person.photo_path }}" alt="Portrait of {{ person.name }}" />
+          <h4>{{ person.name }}</h4>
+          {% if person.discipline %}
+            <h5>{{ person.discipline }}</h5>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+</section>

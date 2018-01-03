@@ -6,4 +6,5 @@ bio: 'Originally from India, Shireen moved to East Africa and then to her hometo
 '
 photo_path: "/assets/img/staff/shireen-deobhakta.jpg"
 role: staff
+agency: opi
 ---

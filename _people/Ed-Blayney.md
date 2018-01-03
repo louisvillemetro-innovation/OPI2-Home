@@ -6,4 +6,5 @@ bio: 'Originally from New England, Ed joined the Office of Performance Improveme
 '
 photo_path: "/assets/img/staff/ed-blayney.jpg"
 role: staff
+agency: oci
 ---

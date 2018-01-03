@@ -6,4 +6,5 @@ bio: 'Michael has spent over a decade in civic tech. His first product was an on
 '
 photo_path: "/assets/img/staff/michael-schnuerle.jpg"
 role: staff
+agency: oci
 ---
