@@ -13,7 +13,7 @@
    // get the template
    var template_markup = $('#post-template').html();
  // get the data
- $.getJSON('https://medium.com/louisville-metro-opi2/latest?format=json', function(data) {
+ $.getJSON('https://ruj5140zfg.execute-api.us-east-1.amazonaws.com/Production', function(data) {
    var author_list = data.payload.references.User;
    var all_posts = data.payload.posts;
    var posts_to_output = $.map(all_posts, function(post, index){
