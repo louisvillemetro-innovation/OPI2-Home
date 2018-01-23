@@ -12,7 +12,7 @@ goals:
 - title: Servant Leadership
   subtitle_markdown: When leaders shift their mindset and serve first, they unlock purpose and ingenuity in those around them, resulting in higher performance and engaged, fulfilled employees.
 - title: Tenacity
-  subtitle_markdown: The quality of being tenacious, or of holding fast; persistence.               
+  subtitle_markdown: The quality of being tenacious, or of holding fast; persistence.         
 goals_section_headline: Core Values
 staff_section_headline: Staff
 fellows_section_headline: Current Innovation Fellows

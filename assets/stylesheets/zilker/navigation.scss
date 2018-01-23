@@ -215,6 +215,21 @@ $drawer-width: 28rem;
     }
   }
 }
+.header-logo {
+  svg {
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-right: 1rem;
+  }
+  @media #{$md-viewport} {
+    svg {
+      width: 6rem;
+      height: 6rem;
+    }
+  }
+}
 .site-footer {
   padding-top: 2rem;
   a {

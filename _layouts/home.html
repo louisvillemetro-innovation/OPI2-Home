@@ -1,7 +1,21 @@
 ---
 layout: default
 ---
-<section class="page-photo-header center-xs"></section>
+<section class="page-photo-header">
+<div class="homepage-hero-module">
+  <div class="video-container">
+      <div class="filter"></div>
+      <video autoplay loop class="fillWidth">
+          <source src="/assets/img/home.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+          <source src="/assets/img/home.mp4" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
+      </video>
+      <div class="poster hidden">
+          <img src="/assets/img/home.jpg" alt="">
+      </div>
+  </div>
+</div>
+</section>
+<br>
 <section class="page-section center-xs">
   <div class="container">
     <div class="row">
@@ -63,6 +77,12 @@ layout: default
   rows=1
   button_text=page.medium_button_text
   button_path=page.medium_button_path %}
+
+{% include page-section--twitter.html
+  section_headline="Our Favorite Tweets"
+  section_lede="Lorem Ipsum"
+  section_theme="gray"  
+  rows=1 %}
 
 {% assign press_mentions = site.press | sort_by: "date" | reverse %}
 {% include page-section--press.html

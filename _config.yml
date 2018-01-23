@@ -73,6 +73,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-redirect-from
+- jekyll-twitter-plugin
 
 sass:
   sass_dir: assets/stylesheets/
@@ -93,8 +94,6 @@ exclude:
 - _bourbon
 - _bourbon-neat
 - _uswds
-
-
 
 twitter:
   username: opi2lou

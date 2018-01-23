@@ -4,21 +4,12 @@ position: 0
 ---
 
 ### What is a Smart City?
-A smart city is an urban area that uses different types of electronic data collection sensors to supply information used to manage assets and resources efficiently. This includes data collected from citizens, devices, and assets that is processed and analyzed to monitor and manage traffic and transportation systems, power plants, water supply networks, waste management, law enforcement, information systems, schools, libraries, hospitals, and other community services.
+As a community, we should have a say in how technology fits into our community, and not the other way around. Technology should help us reach our goals of economic growth, compassion, equity, and efficiency. It should not confuse or hinder our progress as a community.
 
-The smart city concept integrates information and communication technology (ICT), and various physical devices connected to the network (the Internet of things or IoT) to optimize the efficiency of city operations and services and connect to citizens. Smart city technology allows city officials to interact directly with both community and city infrastructure and to monitor what is happening in the city and how the city is evolving.
+This plan will be a living strategy document, updated annually, that helps Louisville Metro Government shape and guide the technological transformation of both our government and community as we build our Smart City. This will allow our government and community to adapt to and plan for changes in technology and emerging trends.
+
 
 ### Why do we need it?
-The outcome of our centuries-old model of city growth is skyrocketing inequality. We’re now in a situation wherein we continue to build cities that are net contributors to the very problems we seek to solve. Our cities get bigger, commute times get longer, the impact on our environment gets worse. What do we do? We build bigger roads and provide services further away from where people live and don’t take cogent environmental action.
+In the next 20 years, Louisville Metro, as a community and government organization, will be transformed by technology. We will have fiber optic cable to the home in every neighborhood; sensors that will collect information on everything from odors to noise pollution; autonomous vehicles on our streets; and on and on. Technology will drive change in our physical, economic, and digital environment. We must prepare for our technology-enabled world. The Smart Louisville Playbook is how we will do it. This playbook will guide our initiatives and strategies on our journey to being a Smart City.
 
-This is a global challenge. Examples in China, India, Africa and here in America vividly illustrate the need for smarter solutions to deal with massive population growth, rural to urban migration, and resource depletion.
-
-We need to transform our cities. Not just once, but continuously.
-
-An unstoppable process of effortless and endless reinvention must be set in motion. Technology enables reinvention. Exciting solutions are beginning to emerge from R&D in artificial intelligence, virtual reality, and nano- and bio-technologies. Science too, is generating insights – revealing unforeseen problems and opportunities. Evolving models for innovation and entrepreneurship are ensuring more promising projects get off the ground. Together, these tools enable the social, economic and political success we enjoy today.
-
-But, as much as technology plays an important role in facilitating the operation of a smart city, deploying every novel gadget across your municipal infrastructure isn’t smart at all.
-
-What smart cities do is create platforms for the community to organise, find new ideas, test them, and create positive changes in their neighbourhood. Smart cities go to their citizens for input, apply agile methodologies and create new models of sustainability and scalability.
-
-That’s what a smart city does, and that’s what makes it smart. The world is full of living examples, too – from Barcelona to San Francisco, from London to Sydney.<sup>[1](https://www.digitalpulse.pwc.com.au/why-we-need-smart-cities/)</sup>
+The Smart Louisville Playbook aims to enhance the abilities of public service employees and citizens by empowering them to solve public problems through the use of existing and emerging technologies. It does this by starting with understanding the challenges our departments and community face and then incorporating technologies that can help solve the problems rather than thinking that technology alone will fix them. This problem-driven approach looks at the full-spectrum of technologies needed to enhance a service from platforms and infrastructure needed to support technologies, to the technologies themselves, and the data-management necessary to empower government employees and citizens to make data-driven decisions for our community.
