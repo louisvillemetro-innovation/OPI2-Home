@@ -1,7 +1,7 @@
 ---
 title: About
 position: 0
-permalink: "/initiatives/"
+permalink: "/performance-improvement/"
 ---
 
 
