@@ -16,16 +16,14 @@ footer_credits: Office of Civic Innovation
 site_nav:
   - label: Home
     path: /
-  # - label: About Us
-  #   path: /about/
-  - label: Blog
+  - label: About Us
+    path: /about/
+  - label: Medium
     path: /posts/
   - label: Performance Improvement
-    path: /performance-improvement/
+    path: /initiatives/
   - label: Innovation
     path: /innovation/
-  # - label: Events
-  #   path: /events/
   - label: LouieLab
     path: /louielab/
 social_icons:
