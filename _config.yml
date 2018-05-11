@@ -26,6 +26,7 @@ collections:
   events:
     title: Events
     output: false
+
   pi:
     title: "Performance Improvement"
     output: true
