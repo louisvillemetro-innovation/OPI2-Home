@@ -1,6 +1,6 @@
 ---
 title: Open Performance
-position: 3
 layout: redirect
+position: 3
 redirect_to: "/performance-improvement"
 ---

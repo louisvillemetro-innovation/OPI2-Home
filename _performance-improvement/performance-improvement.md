@@ -1,6 +1,6 @@
 ---
 title: Performance Improvement
-position: 0
 layout: redirect
+position: 0
 redirect_to: "/performance-improvement"
 ---

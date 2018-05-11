@@ -21,7 +21,7 @@ site_nav:
   - label: Blog
     path: /posts/
   - label: Performance Improvement
-    path: /pi/
+    path: /performance-improvement/
   - label: Innovation
     path: /innovation/
   # - label: Events

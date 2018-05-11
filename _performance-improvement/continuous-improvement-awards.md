@@ -1,6 +1,6 @@
 ---
-title: Continuous Improvement Awards
-position: 3
+title: Information
 layout: redirect
+position: 4
 redirect_to: "/performance-improvement"
 ---
