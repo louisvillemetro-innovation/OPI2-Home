@@ -16,14 +16,12 @@ site_nav:
     path: /
   - label: About Us
     path: /about/
-  - label: Posts
+  - label: Medium
     path: /posts/
-  - label: Initiatives
+  - label: Performance Improvement
     path: /initiatives/
   - label: Innovation
     path: /innovation/
-  - label: Events
-    path: /events/
   - label: LouieLab
     path: /louielab/
 social_icons:
