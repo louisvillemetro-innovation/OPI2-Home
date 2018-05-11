@@ -14,7 +14,7 @@ secondary_paragraph_markdown: Our mission is to provide Louisville Metro Governm
   of their biggest challenges.
 secondary_section_buttons:
 - button_text: Office of Performance Improvement
-  button_path: "/initiatives/"
+  button_path: "/pi/"
 - button_text: Office of Civic Innovation & Technology
   button_path: "/innovation/"
 project_tiles_headline: Keep Up-to-Date with Our Projects

@@ -26,10 +26,10 @@ collections:
   events:
     title: Events
     output: false
-  initiatives:
-    title: Initiatives
+  pi:
+    title: "Performance Improvement"
     output: true
-    permalink: "/initiatives/:path/"
+    permalink: "/pi/:path/"
   innovation:
     title: Innovation
     output: true
@@ -53,10 +53,10 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: initiatives
+    type: pi
   values:
     layout: sidebar-page
-    nav_from_collection: Initiatives
+    nav_from_collection: "Performance Improvement"
 - scope:
     path: ''
     type: innovation
