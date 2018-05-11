@@ -26,10 +26,10 @@ collections:
   events:
     title: Events
     output: false
-  initiatives:
-    title: Initiatives
+  performance-improvement:
+    title: Performance Improvement
     output: true
-    permalink: "/initiatives/:path/"
+    permalink: "/performance-improvement/:path/"
   innovation:
     title: Innovation
     output: true
@@ -39,9 +39,6 @@ collections:
     output: true
   press:
     title: Press mentions
-    output: false
-  projects:
-    title: Projects
     output: false
   people:
     title: Staff
@@ -53,16 +50,18 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: initiatives
+    type: performance-improvement
   values:
     layout: sidebar-page
-    nav_from_collection: Initiatives
+    nav_from_collection: Performance Improvement
+
 - scope:
     path: ''
     type: innovation
   values:
     layout: sidebar-page
     nav_from_collection: Innovation
+    
 - scope:
     path: ''
     type: projects

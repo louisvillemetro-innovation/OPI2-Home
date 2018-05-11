@@ -1,7 +1,6 @@
 ---
 title: Performance Improvement
-position: 0
 layout: redirect
-redirect_to: "/initiatives"
+position: 0
+redirect_to: "/performance-improvement"
 ---
-
