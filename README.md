@@ -1,4 +1,4 @@
-Office of Performanc Improvement & Innovation
+Office of Performance Improvement & Innovation
 ==========================
 
 This repo is for our public-facing site, which is hosted on opi.lsvll.io.  This site is the main funnel for fellows program recruiting and outreach.
