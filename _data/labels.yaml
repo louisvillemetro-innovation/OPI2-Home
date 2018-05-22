@@ -4,9 +4,9 @@ site_title: |
 translate: Translate
 home: Home
 header_projects_button_text: Go to our Projects site
-header_projects_button_url: http://projects.lsvll.io/
+header_projects_button_url: https://projects.lsvll.io/
 header_projects_button2_text: Go to our Other Projects site
-header_projects_button2_url: http://projects.lsvll.io/
+header_projects_button2_url: https://projects.lsvll.io/
 last_revision_prefix: Updated
 footer_headline: Be part of the change.
 footer_lede: We work with internal and external partners to evolve Louisville into a next generation smart city.

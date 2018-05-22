@@ -132,7 +132,7 @@ var parseProjectsJSON = function(post_rows) {
   var template_markup = $('#project-template').html();
 
   // get the data
-  $.getJSON('http://projects.lsvll.io/recent-projects.json', function(posts) {
+  $.getJSON('https://projects.lsvll.io/recent-projects.json', function(posts) {
     for (var i = 0; i < posts.length; ++i) {
       var post = posts[i];
       // for each post, until we hit max
