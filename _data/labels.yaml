@@ -21,7 +21,7 @@ site_nav:
   - label: Medium
     path: /posts/
   - label: Performance Improvement
-    path: /initiatives/
+    path: /performance-improvement/
   - label: Innovation
     path: /innovation/
   - label: LouieLab
