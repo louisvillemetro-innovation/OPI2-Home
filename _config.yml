@@ -1,6 +1,6 @@
 ---
 title: Office of Performance Improvement & Innovation
-email: ipoall@louisvilleky.government
+email: ipoall@louisvilleky.gov
 description: 'The citizens of Louisville deserve the best city government in the country
   and Mayor Greg Fischer’s administration is committed to creating it. The Office
   of Performance Improvement & Innovation, established in January 2012, is helping
@@ -20,53 +20,35 @@ timezone: UTC
 
 markdown: kramdown
 collections:
-  projects:
-    title: Projects
-    output: false
   events:
     title: Events
     output: false
-  performance-improvement:
-    title: Performance Improvement
-    output: true
-    permalink: "/performance-improvement/:path/"
   innovation:
     title: Innovation
     output: true
     permalink: "/innovation/:path/"
-  posts:
-    title: Posts
+  performance:
+    title: Performance
     output: true
+    permalink: "/performance/:path/"
   press:
     title: Press mentions
     output: false
   people:
     title: Staff
     output: false
-  uploads:
-    title: Uploads
-    output: true
 
 defaults:
 - scope:
-    path: ''
-    type: performance-improvement
+    type: performance
   values:
-    layout: sidebar-page
-    nav_from_collection: Performance Improvement
-
+    layout: full-page
+    nav_from_collection: Performance
 - scope:
-    path: ''
     type: innovation
   values:
-    layout: sidebar-page
+    layout: full-page
     nav_from_collection: Innovation
-    
-- scope:
-    path: ''
-    type: projects
-  values:
-    image_path: "/assets/img/projects/project-tile-placeholder.jpg"
 
 plugins:
 - jekyll-seo-tag

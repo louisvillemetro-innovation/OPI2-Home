@@ -20,8 +20,8 @@ site_nav:
     path: /about/
   - label: Medium
     path: /posts/
-  - label: Performance Improvement
-    path: /performance-improvement/
+  - label: Performance
+    path: /performance/
   - label: Innovation
     path: /innovation/
   - label: LouieLab
@@ -29,7 +29,7 @@ site_nav:
 social_icons:
   medium_path: https://medium.com/louisville-metro-opi2
   medium_title: Read Medium Posts by @OPI2Lou
-  github_path: https://github.com/LouisvilleMetro
+  github_path: https://github.com/LouisvilleMetro-innovation
   github_title: Check out Louisville Metro Government's Open Source projects
   twitter_path: https://twitter.com/opi2lou
   twitter_title: Read Tweets by @OPI2Lou
