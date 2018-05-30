@@ -18,7 +18,7 @@ site_nav:
     path: /
   - label: About Us
     path: /about/
-  - label: Medium
+  - label: Blog
     path: /posts/
   - label: Performance
     path: /performance/
@@ -26,6 +26,8 @@ site_nav:
     path: /innovation/
   - label: LouieLab
     path: /louielab/
+  - label: Contact
+    path: /contact/    
 social_icons:
   medium_path: https://medium.com/louisville-metro-opi2
   medium_title: Read Medium Posts by @OPI2Lou

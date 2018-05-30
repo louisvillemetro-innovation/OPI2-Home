@@ -22,7 +22,8 @@ markdown: kramdown
 collections:
   events:
     title: Events
-    output: false
+    output: true
+    permalink: "/events/:path/"
   innovation:
     title: Innovation
     output: true
