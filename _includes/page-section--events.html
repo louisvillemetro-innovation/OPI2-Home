@@ -33,7 +33,8 @@
           <p class="event-location">{{ item.location }}
             <span class="event-address">{{ item.address | newline_to_br }}</span>
           </p>
-          <p class="event-summary">{{ item.summary }}</p>
+          <p class="event-summary"><a href="{{ item.directions_url }}" target="_new">Directions</a></p>
+          <p class="event-summary">{{ item.summary | markdownify }}</p>
         </div>
         {% endif %}
       {% endfor %}
