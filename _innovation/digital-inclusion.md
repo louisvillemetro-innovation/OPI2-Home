@@ -9,6 +9,8 @@ permalink: "innovation/digital-inclusion/"
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C7" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
+![Image of Internet Signup Event](/assets/img/projects/digital-inclusion/digital-inclusion-6.jpg)
+
 ## About Digital Inclusion
 
 Today, participation in society relies on the ability to access and use the Internet. Whether applying for a job, doing homework, or starting a business, all of our residents need digital skills, tools, and connectivity to fully participate and engage in modern society. These factors are increasingly becoming the choke points that prevent thousands of our citizens from engaging and accessing the benefits of a knowledge-driven, innovative economy.
