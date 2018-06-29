@@ -23,12 +23,3 @@ Our digital inclusion efforts focus on three areas of work: [focus areas](http:/
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/UhhHnjpLgXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > Learn how Digital Inclusion can change people's lives
-
-**To learn more about our digital inclusion program, read our [Year 1 recap](https://medium.com/louisville-metro-opi2/digital-inclusion-impact-year-1-recap-b082131731f9)**
-
-## Related News
-- https://louisvilleky.gov/news/russell-neighborhood-host-gigabit-experience-center
-- https://louisvilleky.gov/news/louisville-metro-housing-authority-selected-join-first-connecthome-nation-cohort
-- https://louisvilleky.gov/news/city-announces-website-measure-internet-speeds
-- https://louisvilleky.gov/news/mayor-announces-more-free-wi-fi-part-west-louisville-neighborhood
-- https://louisvilleky.gov/news/city-announces-website-measure-internet-speeds
