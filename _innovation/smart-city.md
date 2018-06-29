@@ -2,7 +2,7 @@
 title: Smart City
 layout: sidebar-page
 position: 9
-permalink: "smart-city/"
+permalink: "innovation/smart-city/"
 ---
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">

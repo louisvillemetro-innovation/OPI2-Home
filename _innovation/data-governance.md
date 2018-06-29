@@ -2,7 +2,7 @@
 title: Data Governance
 layout: sidebar-page
 position: 4
-permalink: "data-governance/"
+permalink: "innovation/data-governance/"
 ---
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">

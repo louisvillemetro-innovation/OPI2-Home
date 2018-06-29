@@ -2,7 +2,7 @@
 title: Citizen Services
 layout: sidebar-page
 position: 3
-permalink: "citizen-services/"
+permalink: "innovation/citizen-services/"
 ---
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">

@@ -2,7 +2,7 @@
 title: Digital Inclusion
 layout: sidebar-page
 position: 5
-permalink: "digital-inclusion/"
+permalink: "innovation/digital-inclusion/"
 ---
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">

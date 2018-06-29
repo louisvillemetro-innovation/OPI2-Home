@@ -2,7 +2,7 @@
 title: Social Innovation
 layout: sidebar-page
 position: 10
-permalink: "social-innovation/"
+permalink: "innovation/social-innovation/"
 ---
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">

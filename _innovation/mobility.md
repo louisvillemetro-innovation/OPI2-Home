@@ -2,7 +2,7 @@
 title: Mobility
 layout: sidebar-page
 position: 6
-permalink: "mobility/"
+permalink: "innovation/smart-mobility/"
 ---
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">
