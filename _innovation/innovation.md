@@ -1,5 +1,5 @@
 ---
-title: Civic Innovation & Technology
+title: Office of Civic Innovation
 layout: sidebar-page
 position: 0
 permalink: "innovation/"
@@ -22,7 +22,7 @@ This work supported Mayor Fischer's overall strategy for the city by working on 
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/OeylVsbk0B4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### What does Civic Innovation & Technology do?
+### What does the Office of Civic Innovation do?
 Since 2015, the i-team has focused on community-focused technology projects, also known as Smart City projects. These projects aim to transform our government's relationship with the community and to transform government operations through the effective use of technology and data.  
   
 Some of our initiatives include the CNET Smart Apartment, which allows us to test how the Smart City and the Smart Home will interact, Waze Data Partnership, which allows us to understand the real-time and historical traffic issues in our community, and Digital Inclusion, which seeks to increase equity in regards to access to technology and the internet.
