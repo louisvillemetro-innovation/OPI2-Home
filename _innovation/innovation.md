@@ -6,9 +6,9 @@ permalink: "innovation/"
 ---
 
 ### Mission Statement:
->The Office of Civic Innovation transforms services
->by leveraging data & technology to ready our
->government for our community's digital future.
+>The Office of Civic Innovation builds data and 
+>technology platforms to ready our government for 
+>our community's digital future
 
 ### Vision Statement:
 >Our vision is that Louisville Metro is prepared for
