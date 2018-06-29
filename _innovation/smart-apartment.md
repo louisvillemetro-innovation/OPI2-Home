@@ -1,7 +1,7 @@
 ---
 title: Smart Apartment
 layout: sidebar-page
-position: 0
+position: 8
 permalink: "smart-apartment/"
 ---
 

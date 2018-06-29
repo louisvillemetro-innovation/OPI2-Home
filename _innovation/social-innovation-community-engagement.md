@@ -1,7 +1,7 @@
 ---
 title: Social Innovation
 layout: sidebar-page
-position: 0
+position: 10
 permalink: "social-innovation/"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Public / Private Partnerships
 layout: sidebar-page
-position: 0
+position: 7
 permalink: "public-private-partnerships/"
 ---
 

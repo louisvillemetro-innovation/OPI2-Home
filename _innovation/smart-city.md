@@ -1,7 +1,7 @@
 ---
 title: Smart City
 layout: sidebar-page
-position: 0
+position: 9
 permalink: "smart-city/"
 ---
 

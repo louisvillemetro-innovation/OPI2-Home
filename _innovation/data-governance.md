@@ -1,7 +1,7 @@
 ---
 title: Data Governance
 layout: sidebar-page
-position: 0
+position: 4
 permalink: "data-governance/"
 ---
 
@@ -34,6 +34,3 @@ We do analysis on all kinds of data for different departments, including traffic
 
 
 ## Open Data
-
-
-

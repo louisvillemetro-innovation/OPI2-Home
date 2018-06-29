@@ -1,7 +1,7 @@
 ---
 title: Citizen Services
 layout: sidebar-page
-position: 0
+position: 3
 permalink: "citizen-services/"
 ---
 

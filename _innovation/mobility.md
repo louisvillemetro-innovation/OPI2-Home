@@ -1,7 +1,7 @@
 ---
 title: Mobility
 layout: sidebar-page
-position: 0
+position: 6
 permalink: "mobility/"
 ---
 
