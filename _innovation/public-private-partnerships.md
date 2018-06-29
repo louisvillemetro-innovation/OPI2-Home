@@ -16,4 +16,6 @@ Public-private partnerships can be used in any sector, and they typically span 1
 
 ### GovInTheOpen - Open Government partnerships
 
+![GovInTheOpen](http://www.govintheopen.com/.gitbook/assets/ogc-web-banner.png)
+
 The Open Government Coalition (OGC)is a network of government agencies working on open source projects together, pooling technical talent to collaborate on projects with reproducible, impactful results, saving time and money.
