@@ -24,3 +24,7 @@ To accomplish this effort, the Office of Civic Innovation is experimenting with 
 As these technologies have a greater impact and influence on our lives, and are developed for citizens by their local government, it is important the citizens have the capability and option to review the code of this software. You can review this project, and many others on our organization page on [GitHub](https://github.com/louisvillemetro-innovation).
 
 As all citizens leverage and use technology platforms differently, we currently have a multi-platform digital assistant solution in development that will address the need for a platform agnostic solution.
+
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/citizen-services/" target="_blank">Learn More</a>
+</div>{: .center-image }

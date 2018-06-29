@@ -34,3 +34,8 @@ The Office of Performance Improvement & Innovation views hackathons as a key com
 - [Open Data Hackathon](https://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
 - [Louisville Apps](http://datasmart.ash.harvard.edu/news/article/open-data-in-louisville-apps-hackathons-and-building-relationships-1076)
 - [Crowdsourcing Hackathon](http://www.govtech.com/data/Louisville-Leverages-Crowdsourcing-for-Civic-Good.html)
+
+
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/community-innovation-engagement/" target="_blank">Learn More</a>
+</div>{: .center-image }

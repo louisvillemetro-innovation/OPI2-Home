@@ -40,3 +40,8 @@ We will promote economic development by making investments in areas, such as inf
 
 ### Community and Citizenship
 We will use technology to increase the transparency of our government and to create more opportunities for our citizens to co-create solutions for our civic problems
+
+
+<div class="end-xs hidden-xs col-md-3 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/smart-city/" target="_blank">Learn More</a>
+</div>{: .center-image }
