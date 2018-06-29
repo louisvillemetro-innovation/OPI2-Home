@@ -22,7 +22,6 @@ Our digital inclusion efforts focus on three areas of work: [focus areas](http:/
 * **Hardware:** bringing computers (laptops and desktops) into homes
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/UhhHnjpLgXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-> Learn how Digital Inclusion can change people's lives
 
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
