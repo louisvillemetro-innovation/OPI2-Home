@@ -5,7 +5,7 @@ position: 10
 permalink: "social-innovation/"
 ---
 
-<div class="end-xs hidden-xs col-md-3 button-wrap">
+<div class="end-xs hidden-xs col-md-4 button-wrap">
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C74" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
