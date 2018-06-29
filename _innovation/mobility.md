@@ -1,5 +1,5 @@
 ---
-title: mobility
+title: Mobility
 layout: sidebar-page
 position: 0
 permalink: "mobility/"
