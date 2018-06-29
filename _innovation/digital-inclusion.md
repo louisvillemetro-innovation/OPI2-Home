@@ -23,7 +23,7 @@ Our digital inclusion efforts focus on three areas of work: [focus areas](http:/
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/UhhHnjpLgXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Digital Inclusion
+## Projects
 
 ### SpeedUpLouisville
 
