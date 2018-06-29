@@ -1,7 +1,7 @@
 ---
 title: Digital Inclusion
 layout: sidebar-page
-position: 0
+position: 5
 permalink: "digital-inclusion/"
 ---
 
