@@ -43,5 +43,5 @@ We will use technology to increase the transparency of our government and to cre
 
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/smart-city/" target="_blank">Learn More</a>
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/smart-city/">Learn More</a>
 </div>{: .center-image }
