@@ -22,7 +22,7 @@ In the next 20 years, Louisville Metro, as a community and government organizati
 
 Our Smart City strategy aims to enhance the abilities of public service employees and citizens by empowering them to solve public problems through the use of existing and emerging technologies. It does this by starting with understanding the challenges our departments and community face and then incorporating technologies that can help solve the problems rather than thinking that technology alone will fix them. This problem-driven approach looks at the full-spectrum of technologies needed to enhance a service from platforms and infrastructure needed to support technologies, to the technologies themselves, and the data-management necessary to empower government employees and citizens to make data-driven decisions for our community.
 
-<iframe width="825" height="400" src="https://www.youtube.com/embed/BLg_3GLAB0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="677" height="325" src="https://www.youtube.com/embed/BLg_3GLAB0g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Smart City Goals
 
