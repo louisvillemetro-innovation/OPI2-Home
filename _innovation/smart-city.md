@@ -15,7 +15,7 @@ permalink: "innovation/smart-city/"
 
 As a city, we should have a say in how technology fits into our community, and not the other way around. Technology should help us reach our goals of economic growth, compassion, equity, and efficiency. It should not confuse or hinder our progress.
 
-<iframe width="677" height="350" src="https://www.youtube.com/embed/p2tqQQjNLOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="677" height="325" src="https://www.youtube.com/embed/p2tqQQjNLOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 In the next 20 years, Louisville Metro, as a community and government organization, will be transformed by technology. We will have fiber optic cable to the home in every neighborhood; sensors that will collect information on everything from odors to noise pollution; autonomous vehicles on our streets; and on and on. Technology will drive change in our physical, economic, and digital environment. We must prepare for our technology-enabled world.
