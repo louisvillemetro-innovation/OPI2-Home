@@ -14,5 +14,5 @@ The best part of CNET's approach is that it's not focused on technology for the 
 The Office of Civic Innovation smart city initiatives aren't just focused on internal initiatives like making gigantic buildings more energy efficient. Rather, it has focused its efforts on things that have a direct impact on the community, such as crowd-sourced air quality studies, crowd-sourced bandwidth speed testing across the community, and a partnership with Waze to help manage traffic congestion with data.
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/cnet-smart-apartment/" target="_blank">Learn More</a>
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/cnet-smart-apartment/">Learn More</a>
 </div>{: .center-image }
