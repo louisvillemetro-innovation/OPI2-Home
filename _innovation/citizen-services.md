@@ -26,5 +26,5 @@ As these technologies have a greater impact and influence on our lives, and are 
 As all citizens leverage and use technology platforms differently, we currently have a multi-platform digital assistant solution in development that will address the need for a platform agnostic solution.
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/citizen-services/" target="_blank">Learn More</a>
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/citizen-services/">Learn More</a>
 </div>{: .center-image }
