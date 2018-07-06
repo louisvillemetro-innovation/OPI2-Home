@@ -9,7 +9,7 @@ permalink: "innovation/smart-city/"
 <a class="usa-button usa-button-outline link--external" href="https://public.govdelivery.com/accounts/KYLOUISVILLE/subscriber/new?category_id=KYLOUISVILLE_C75" target="_blank">Follow this project</a>
 </div>{: .center-image }
 
-![Smart city](/assets/img/projects/smart-city/smart-city-0.jpg)
+![Smart city](/assets/img/projects/smart-city/smart-city.jpg)
 
 ### About our Smart City Strategy?
 
