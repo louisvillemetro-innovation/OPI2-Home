@@ -37,5 +37,5 @@ The Office of Performance Improvement & Innovation views hackathons as a key com
 
 
 <div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/community-innovation-engagement/" target="_blank">Learn More</a>
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/community-innovation-engagement/">Learn More</a>
 </div>{: .center-image }
