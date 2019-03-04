@@ -48,7 +48,7 @@ Project Name:  Commanding Officer of the Year
 
 Summary: Since she’s taken over, crime in the 1st Division is down over 20%. In the most violent neighborhoods, Russell and Portland, violent crime is at a 20% reduction.  Homicides are down 85% and non-fatal shootings are down over 55%. These types of large-scale reductions do not occur by accident and are a direct reflection of the leadership that Sergeant Vance has shown in our division.  See the video here (https://www.youtube.com/watch?v=M0IILz5x38Y&t=0s&index=3&list=PL6won4yJDZObzVnGHXeRowOG2tPx3GuXT)
 
-#### BDaily Work Warrior Team
+#### Daily Work Warrior Team
 Department: Louisville Metro Public Health and Wellness
 Employee(s): Dr. Sarah Moyer, Dr. Lori Caloia, Ken Luther, Paul Kern, Amanda Hunter, Tim Churchill, Kim Rogers, Jon Moore, Taylor Ingram, Briana Forsythe, Rui Zhao, Mary Powell 
 Project Name: Hepatitus A Outbreak Response  
