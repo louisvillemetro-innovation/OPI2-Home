@@ -4,7 +4,6 @@ layout: sidebar-page
 position: 0
 permalink: "performance/"
 ---
-![LouieStat 2018 - @LouMetroHealth](/assets/img/initiatives/louiestat/louiestat.jpg)
 
 ### What is Continuous Improvement (CI)
 
