@@ -7,7 +7,9 @@ lede_markdown: Metro Government Awards for Continuous Improvement
 
 [What Works Cities Silver Certification] (https://medium.com/what-works-cities-certification/louisville-a-data-savvy-approach-from-louielab-to-louiestat-6801da2b3d5a?_sm_au_=iZVPf5QL1DrpHSfQ)
 
+
 [Living Cities and Governing Equipt to Innovate 2018 profiles in High-Performance Government] (http://www.governing.com/equipt/cities-make-progress-face-continuing-challenges-in-governing-well-survey.html?_sm_au_=iZVPf5QL1DrpHSfQ)
+
 
 As part of the annual Day of Celebration, Louisville Metro employees, citzens, and community partners were recognized for their successful implementation of innovative programs to better serve our citizens. View the winners and the videos that summarize their work below.
 
