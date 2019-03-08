@@ -11,12 +11,13 @@ permalink: "innovation/social-innovation/"
 
 ![Community hackathon](/assets/img/projects/community/community.jpg)
 
-The Office of Performance Improvement & Innovation views hackathons as a key component of our strategy to not only institutionalize innovation, but to connect with our citizens, the tech community and any of our project stakeholders. It is a critical piece of collaborative strategy in the generation of civic engagement, relationship building and problem solving. We have an open office hack night, once a month with our local Code for America chapter, the non-profit Civic Data Alliance, in addition to a quarterly capstone hackathon that encapsulates all of the previous quarter focus areas. This is in addition to nation-wide events, such as the National Civic Data of Hacking.
+The Office of Performance Improvement & Innovation views hackathons as a key component of our strategy to not only institutionalize innovation, but to connect with our citizens, the tech community and any of our project stakeholders. It is a critical piece of collaborative strategy in the generation of civic engagement, relationship building and problem solving. We partner with our local Code for America chapter, Code for Kentuckiana, in addition to quarterly hackathons and public events that encapsulate our focus areas. This is in addition to nation-wide events, such as the National Civic Data of Hacking.
 
 ### External
 
-- Civic Data Alliance (Code for America) Partnership / HacktheVille
+- Code for Kentuckiana (Code for America) Partnership
 - National Civic Data of Hacking
+- Inernational Open Data Day
 - Smart Home / IOT Hackathon @ GEC
 - Hack for Change Food Insecurity
 
