@@ -4,7 +4,7 @@ layout: sidebar-page
 position: 0
 permalink: "performance/"
 ---
-photo_path: 
+photo_path: "/assets/img/Perfromance Team 2.jpg"   
 ---
 ### What is Continuous Improvement (CI)
 
