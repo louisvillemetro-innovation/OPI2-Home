@@ -4,7 +4,8 @@ layout: sidebar-page
 position: 0
 permalink: "performance/"
 ---
-
+photo_path: 
+---
 ### What is Continuous Improvement (CI)
 
 The American Society for Quality defines Continuous Improvement as "an ongoing effort to improve products, services or processes. These efforts can seek 'incremental' improvement over time or 'breakthrough' improvement all at once."
