@@ -1,5 +1,5 @@
 ---
-title: Improvement Stories
+title: Performance Improvement Projects
 layout: sidebar-page
 position: 3
 lede_markdown:
