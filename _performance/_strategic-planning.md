@@ -1,5 +1,5 @@
 ---
-title: Department Strategic Plans
+title: Strategic Planning
 layout: sidebar-page
 position: 5
 lede_markdown:
