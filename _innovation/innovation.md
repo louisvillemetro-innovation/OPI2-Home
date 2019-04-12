@@ -24,7 +24,7 @@ This work supported Mayor Fischer's overall strategy for the city by working on 
   
   
 <iframe width="825" height="400" src="https://www.youtube.com/embed/OeylVsbk0B4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-> Grace Simarall, Chief of Civic Innovation & Technology, talking about Civic Innovation
+> Grace Simrall, Chief of Civic Innovation & Technology, talking about Civic Innovation
 
 ### What does the Office of Civic Innovation do?
 Since 2015, the i-team has focused on community-focused technology projects, also known as Smart City projects. These projects aim to transform our government's relationship with the community and to transform government operations through the effective use of technology and data.  
