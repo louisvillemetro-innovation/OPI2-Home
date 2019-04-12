@@ -20,7 +20,7 @@ Some of our Smart Mobility Projects include:
 * Micromobility and Scooter Data Management
 * [UPenn Traffic Safety Analysis](https://insiderlouisville.com/government/infrastructure/a-new-data-project-aims-to-predict-louisville-traffic-collisions/)
 
-### Waze Partnershipt
+### Waze Partnership
 
 We publish online all of our city's road closures and construction so Waze can put that right into the Waze app 50,000 Louisvillians use each day to navigate our city more quickly and improve air quality.   Waze also freely gives Louisville valuable information on congestion and user-reported problems, which the Innovation office shares with departments to improve your commutes and fix issues.  Making sense of this firehose of data has cost other cities and states hundreds of thousands of dollars, but the Innovation office actually worked with corporations to pay a Louisville startup to build these tools, and we can now replace many $50,000 traffic studies instantly. 
 
