@@ -15,7 +15,7 @@ permalink: "innovation/"
 >emerging technologies to ensure our entire community
 >reaches its full potential.
 
-![Innovation team picture](/assets/img/projects/data-governance/innovation-team.jpg)
+![Innovation team picture](/assets/img/innovation-team.jpg)
 
 ### History
 The Louisville Metro Innovation Team was established in 2011 as part of the pioneer cohort of Bloomberg innovation teams. While funded by Bloomberg, the i-team took on challenges such as Vacant & Abandoned Properties, Wet/Dry Recycling, and Public Wifi.
