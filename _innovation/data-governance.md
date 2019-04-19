@@ -73,7 +73,7 @@ The city's official [data inventory](https://data.louisvilleky.gov/inventory) of
 
 The city of Louisville has a [Badge reward program](https://www.badgelist.com/Louisville-Metro-Badges) that allows employees to earn badges by doing data-driven and innovative work, much like the Girl Scouts.   The goal is to encourage Metro employees across all agencies to learn new skills and to be better equipped to serve our citizens.
 
-![Data governance Badges](/assets/img/projects/data-governance/datagov-badges.jpg)
+![Data governance Badges](/assets/img/projects/data-governance/datagov-badges.png)
 
 In addition to the rewards listed on the badge site, members that earned 10 badges in the Data Scounts or Innovation Pioneers tracks, recieved special recognition at the Mayor's Annual Day of Celebration.
 
