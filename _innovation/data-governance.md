@@ -40,7 +40,7 @@ Curriculum, training, and presentations for members on topics around the data li
 
 Our goal to institutionalize innovation has led to creating an [Analog Hackathon](https://medium.com/louisville-metro-opi2/analog-hackathons-engagement-and-ideas-without-tech-86b2a78f2473) curriculum, having an [internal hackathon](https://medium.com/louisville-metro-opi2/waze-louisvilles-first-internal-hackathon-647363a85392) around Waze data, and helping organize external hackathons like [Open Data Day](https://medium.com/louisville-metro-opi2/louisvilles-open-data-day-public-safety-alexa-firearms-e09fec2f6f7e) with participation from members.
 
-![Data governance hackathon](/assets/img/projects/data-governance/datagov-hackathon.jpg)
+![Data governance hackathon](/assets/img/projects/data-governance/datagovernance-hackathon.jpg)
 
 ### Open Data
 
