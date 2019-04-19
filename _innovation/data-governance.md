@@ -32,7 +32,7 @@ Each year the Data Officer and planning team picks a theme that guides our missi
 
 Members spend their time on the following activities:
 
-- Data analysis trainings (by our Data Officer, Senior Data Scientist, OPI's Data Academy, Microsoft, and paid trainers like GovEx from Johns Hopkins and Tandem Solutions)
+- Data analysis trainings *(by our Data Officer, Senior Data Scientist, OPI's Data Academy, Microsoft, and paid trainers like GovEx from Johns Hopkins and Tandem Solutions)*
 - Giving access to new data tools for analysis, dashboards, warehousing, and mapping
 - Having working groups on data standards and writing data policy
 - Talking about how to share data internally and externally
@@ -70,8 +70,8 @@ We [publish over 200 datasets](https://data.louisvilleky.gov/) including budget 
 
 ![Open data gallery](/assets/img/projects/opendata/opendata-gallery.jpg)
 
-<div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov" target="_blank">Open Data Site</a>
+<div class="end-xs hidden-xs col-md-4 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov" target="_blank">Open Data</a>
 </div>{: .center-image }
 
 ## Working Groups
@@ -86,6 +86,10 @@ The city's official [data inventory](https://data.louisvilleky.gov/inventory) of
 
 ![Data Inventory](/assets/img/projects/data-governance/datagov-inventory.jpg)
 
+<div class="end-xs hidden-xs col-md-4 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://data.louisvilleky.gov/inventory" target="_blank">Inventory</a>
+</div>{: .center-image }
+
 ## Louisville Metro Badges
 
 The city of Louisville has a [Badge reward program](https://www.badgelist.com/Louisville-Metro-Badges) that allows employees to earn badges by doing data-driven and innovative work, much like the Girl Scouts.   The goal is to encourage Metro employees across all agencies to learn new skills and to be better equipped to serve our citizens.
@@ -96,7 +100,7 @@ In addition to the rewards listed on the badge site, members that earned 10 badg
 
 ![Data governance Badges](/assets/img/projects/data-governance/datagov-badgecertificate.jpg)
 
-<div class="end-xs hidden-xs col-md-3 button-wrap">
+<div class="end-xs hidden-xs col-md-4 button-wrap">
 <a class="usa-button usa-button-outline link--external" href="https://louisvilleky.gov/government/performance-improvement-innovation/louisville-metro-badges" target="_blank">Badge Site</a>
 </div>{: .center-image }
 
@@ -117,6 +121,6 @@ The Data Governance team has been essential in our city's overall [What Works Ci
 
 ![What Works Cities Trello Board](/assets/img/projects/data-governance/datagov-wwc.jpg)
 
-<div class="end-xs hidden-xs col-md-3 button-wrap">
-<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/data-governance/">Learn More about Data Governance</a>
+<div class="end-xs hidden-xs col-md-4 button-wrap">
+<a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/data-governance/">Learn More</a>
 </div>{: .center-image }
