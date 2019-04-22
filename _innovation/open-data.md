@@ -29,6 +29,20 @@ Louisville Metro [publishes over 200 datasets](https://data.louisvilleky.gov/) i
 
 ![Open data gallery](/assets/img/projects/opendata/opendata-gallery.jpg)
 
+## Cost Savings
+
+Open data reduces the quantity of and time it takes to fulfill open records requests, has invigorated innovation, economic growth and job creation, reduces duplicative efforts across departments, fascilitates data sharing both internally and externally, and improved the efficiency and effectiveness of government services.  The site is run using [free open source software](https://getdkan.org/).
+
+## Civic Tech
+
+The Civic Innovation office cultivates the relationship with our passionate volunteer groups helping to make us more efficient and push the limits of what city government can do for residents. Louisville has a robust volunteer civic technology ecosystem that [originated back in 2006](http://bit.ly/CivicDataHistory), with some volunteers now working within city government.  
+
+[Code for Kentuckiana](https://codeforkentuckiana.org/) is the Louisville chapter of the national [Code for America]() non-profit. Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.  Code for Kentuckiana's mission is to organize and advocate for the use of public data and technology to make Louisville and Southern Indiana a more safe, resilient, and equitable place.
+
+![Code for Kentuckiana](/assets/img/projects/opendata/opendata-codeforkentuckiana.jpg)
+
+Together the city co-hosts hackathons and builds projects that can benefit residents, like a real-time bus tracker, resident feedback on the Dixie Highway project, voter turnout, car collision analysis, crime report findings, services for youth, and the internet speed test application [Speed Up Louisville](https://medium.com/louisville-metro-opi2/the-pathway-forward-for-mapping-broadband-speeds-in-america-da7df35320c2).
+
 ## Open Data Resources
 
 Open Knowledge Foundation's [Open Data Handbook](http://opendatahandbook.org/)
