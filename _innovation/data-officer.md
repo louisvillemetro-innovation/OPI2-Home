@@ -4,13 +4,15 @@ layout: sidebar-page
 position: 4
 date: 2019-04-22 18:00:00 Z
 excerpt: Louisville's first Data Officer runs the city's open data website, data governance team, data analytics projects, data warehousing, external partnerships, and automation across the city. 
-image_path: "/assets/img/projects/dataofficer/dataofficer-homepage.jpg"
+image_path: "/assets/img/projects/dataofficer/dataofficer-homepage.png"
 permalink: "innovation/data-officer/"
 ---
 
 Louisville's first Data Officer [Michael Schnuerle](https://twitter.com/LouDataOfficer) runs the city's [open data](/innovation/open-data/) website, [data governance team](/innovation/data-governance/), data analytics projects, data warehousing, external partnerships, and automation across the city. 
 
-While private companies have had Chief Data Officers for years to save money, create efficiencies, automate processes, and use data to make informed decisions, they are relatively new in government.  Louisville became the 12th US city to hire a Data Officer in 2016, and now there are 25 at the city/county level, 17 at the state level including Kentucky, and over a dozen at federal agencies.  
+While private companies have had Chief Data Officers for years to save money, create efficiencies, automate processes, and use data to make informed decisions, they are relatively new in government.  Louisville became the 12th US city to hire a Data Officer in 2016, and by 2019 there are 25 at the city/county level, 17 at the state level including Kentucky, and over a dozen at federal agencies.  
+
+![Data officer homepage](/assets/img/projects/dataofficer/dataofficer-homepage.png)
 
 ### Chief Data Officer Value
 
