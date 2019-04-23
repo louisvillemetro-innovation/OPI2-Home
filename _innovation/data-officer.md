@@ -72,6 +72,8 @@ Annual Open Data Reports cataloging progress ([2018](https://medium.com/louisvil
 
 Organizes public events, meetings, and [hackathons](/innovation/social-innovation/) around open data and transparency.
 
+![Data Officer](/assets/img/projects/opendata/opendata-hackathon.png)
+
 ## Chief Data Officer Value
 
 Harvard Kennedy School - [Discovering the True Value of City Data Experts](https://datasmart.ash.harvard.edu/news/article/discovering-the-true-value-of-data-experts-who-are-showing-cities-the-money)
