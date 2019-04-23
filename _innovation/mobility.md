@@ -29,6 +29,8 @@ Few things fundamentally affect the nature, feel, and operation of a city like i
 
 The Office of Civic Innovation's Data Officer manages the data policy and trip data coming from new moblity companies like Bird and Lime in order to ensure the companies' proper operation in our city and analyze the data for infrastructure improvements.  Our office applied for and were one of 5 cities accepted into [Stae's Civic Sandbox](https://medium.com/city-as-a-service/co-creating-with-cities-announcing-the-stae-civic-data-sandbox-b901d4f7c3bb) free program to build tools to help manage the public right of way and scooter fleets.  We are the first city to [publish scooter trip data online as open data](https://data.louisvilleky.gov/dataset/dockless-vehicles) for residents, the press, and researchers. 
 
+![Mobility Scooter Map](/assets/img/projects/smart-mobility/mobility-scooters.png)
+
 ### Transportation Analysis Projects
 
 We create tools and projects using crowdsourced and other data to evaluate traffic congestion problem areas and traffic improvement projects with the goal of empowering transportation professionals.
