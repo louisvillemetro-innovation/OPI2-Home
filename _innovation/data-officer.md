@@ -12,7 +12,6 @@ Louisville's first Data Officer [Michael Schnuerle](https://twitter.com/LouDataO
 
 While private companies have had Chief Data Officers for years to save money, create efficiencies, automate processes, and use data to make informed decisions, they are relatively new in government.  Louisville became the 12th US city to hire a Data Officer in 2016, and by 2019 there are 25 at the city/county level, 17 at the state level including Kentucky, and over a dozen at federal agencies.  
 
-![Data officer homepage](/assets/img/projects/dataofficer/dataofficer-homepage.png)
 
 ### Chief Data Officer Value
 
