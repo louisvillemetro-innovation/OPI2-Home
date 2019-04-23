@@ -1,5 +1,5 @@
 ---
-title: The Team
+title: Innovation Team
 layout: sidebar-page
 position: 1
 ---
