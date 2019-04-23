@@ -9,6 +9,7 @@ position: 1
   section_headline=page.staff_section_headline
   people=staff %}
 
+## Innovation Organization Chart
 
 ![Innovation Org Chart](/assets/img/projects/innovation/innovation-orgchart.jpg)
 
