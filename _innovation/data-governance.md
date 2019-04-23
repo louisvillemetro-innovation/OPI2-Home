@@ -14,7 +14,7 @@ permalink: "innovation/data-governance/"
 
 ![Data governance meeting](/assets/img/projects/data-governance/datagov-meeting444.jpg)
 
-Led by the city's [Data Officer](https://twitter.com/LouDataOfficer), the cross-departmental Data Governance team includes 60+ Metro employees that work with data and represent every city department and has built a data-driven culture across the city, breaking down silos and fostering collaboration.  The team receives trainings, creates policy, shares data, and manages open data.  Members are recommended as a result of the mayor's [Open Data Executive Order](https://data.louisvilleky.gov/mayor-fischers-open-data-executive-order) (Section 3) and the [Open Data Policy](https://data.louisvilleky.gov/open-data-policy) (3.1.2).
+Led by the city's [Data Officer](/innovation/data-officer/), the cross-departmental Data Governance team includes 60+ Metro employees that work with data and represent every city department and has built a data-driven culture across the city, breaking down silos and fostering collaboration.  The team receives trainings, creates policy, shares data, and manages open data.  Members are recommended as a result of the mayor's [Open Data Executive Order](https://data.louisvilleky.gov/mayor-fischers-open-data-executive-order) (Section 3) and the [Open Data Policy](https://data.louisvilleky.gov/open-data-policy) (3.1.2).
 
 ![Data governance training](/assets/img/projects/data-governance/datagov-govex4.jpg)
 
