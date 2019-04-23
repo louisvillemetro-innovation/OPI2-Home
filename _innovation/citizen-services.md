@@ -25,7 +25,7 @@ This technology was recently promoted and demonstrated to an audience from the N
 
 In December 2017, the Louisville International Airport (SDF) became the first fully accessible airport to travelers who are blind or visually impaired and in January 2018, the Kentucky Center for the Arts became the first fully accessible performing arts venue to patrons who are blind or visually impaired.
 
-### IFTTT
+## IFTTT Resident Notifications
 
 Innovation has [built a connection to the free service IFTTT](https://ifttt.com/smartlouisville) (IF This, Then That) that lets residents get notifications from the city the way they want them.  Things like emergency alerts, air quality, city jobs, city news, and Metro Council meeting agendas, minutes, videos, and bills can be sent to residents via text message, email, Twitter, Facebook Messenger, Hue light bulbs, and other smart devices. These can be mixed and matched in countless ways, helping get the information you need in the manner you need, and is of particular value for visually or audibly impaired residents.  Louisville is the first government on the platform, which initiated IFTTT's creation of the government Data Access Project.
 
@@ -39,7 +39,7 @@ An open source project, our IFTTT code is freely available and licensed on GitHu
 
 Get your city started with IFTTT & [view the source code](https://github.com/LouisvilleMetro-Innovation) or get connected with [Smart Louisville](https://ifttt.com/smartlouisville)!
 
-### Smart Assistant Skills (Alexa, Google Assistant)
+## Smart Assistant Skills (Alexa, Google Assistant)
 
 ![digital assistants](/assets/img/projects/citizen-services/assistants.png)
 
@@ -47,7 +47,7 @@ Get your city started with IFTTT & [view the source code](https://github.com/Lou
 
 Our citizen's expectations are being set by the pace and responsiveness of private industry. The future of government is not behind paper forms, or labyrinth processes but instead the future of our government is ubiquitous service and availability. The citizen expectation is to be able to solve their problems quickly, efficiently and with as little energy as possible.
 
-To accomplish this effort, the Office of Civic Innovation is experimenting with several Smart Assistants, and Voice User Interfaces (VUIs). By engaging with our local Code for America chapter, the Civic Data Alliance, we have created a number of community developed skills, primarily for (but not limited to) the Amazon Alexa digital assistant. This allows us to experiment with voice interaction, a new channel for digital citizen services.
+To accomplish this effort, the Office of Civic Innovation is experimenting with several Smart Assistants, and Voice User Interfaces (VUIs). By engaging with our local Code for America chapter, we have created a number of community developed skills, primarily for (but not limited to) the Amazon Alexa digital assistant. This allows us to experiment with voice interaction, a new channel for digital citizen services.
 
 As these technologies have a greater impact and influence on our lives, and are developed for citizens by their local government, it is important the citizens have the capability and option to review the code of this software. You can review this project, and many others on our organization page on [GitHub](https://github.com/louisvillemetro-innovation).
 
