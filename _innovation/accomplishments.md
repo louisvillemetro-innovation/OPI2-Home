@@ -4,7 +4,7 @@ layout: sidebar-page
 position: 2
 date: 2019-04-23 00:00:00 Z
 excerpt: The Office of Civic Innovation and Technology has brought in over $13 million dollars in the past 7 years in grant dollars and in-kind funding, representing over 26 years of our entire current annual staff funding and budget.
-image_path: "/assets/img/projects/innovation/opioffices.jpg"
+image_path: "/assets/img/projects/innovation/teambanner.jpg"
 permalink: "innovation/accomplishments/"
 ---
 
@@ -12,7 +12,7 @@ The Office of Civic Innovation and Technology has brought in over $13 million do
 
 This funding helps us fulfill our vision of preparing Louisville Metro for emerging technologies to ensure our entire community reaches its full potential.
 
-![Innovation Offices](/assets/img/projects/innovation/opioffices.jpg)
+![Innovation Team](/assets/img/projects/innovation/teambanner.jpg)
 
 ## Innovation Grant Funds 
 
@@ -56,8 +56,10 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 |2018|Smart Cities Council|Readiness Challenge|$500,000|
 |2018|University of Kentucky|Mayors Challenge|$75,000|
 |2019|Stae|Civic Sandbox - transportation|$50,000|
-|2019|What Works Cities|GovEx Training|$10,000|
+|2019|What Works Cities|GovEx Training|$10,000+|
 |||**In-Kind Total**|**$1,885,000**|
+
+![Innovation Offices](/assets/img/projects/innovation/opioffices.jpg)
 
 ## Innovation Awards
 
@@ -84,4 +86,5 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 - Governing Magazine KY Digital Government Summit winner “Best Application Serving the Public” for the Bloomberg Philanthropies Mayors Challenge proposal 2018 
 - Living Cities “Equipt to Innovate” [top “Race Informed” city](http://www.governing.com/equipt/Governing--Living-Cities-Announce-High-Performing-Cities-from-Second-Annual-Equipt-Survey.html) 2018 
 - Center for Digital Government [1st place winner for Best Overall City Government Experience](https://www.govtech.com/cdg/government-experience/Government-Experience-Awards-2018-Winners-Announced.html) 2018 
+- [Stae Civic Sandbox](https://medium.com/city-as-a-service/co-creating-with-cities-announcing-the-stae-civic-data-sandbox-b901d4f7c3bb) 2019
 - IDC [Smart Cities Award Transportation Infrastructure](https://www.idc.com/getdoc.jsp?containerId=prUS45007919) Category for Waze WARP and OGC 2019 
