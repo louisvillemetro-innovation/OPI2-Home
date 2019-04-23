@@ -32,7 +32,7 @@ Year|Funder|Grant Name/Desc|Amount
 2018|University of Kentucky|Mayors Challenge|$75,000
 2019|Stae|Civic Sandbox - transportation|$50,000
 2019|What Works Cities|GovEx Training|$10,000
-||| Total|$1,885,000
+|| Total|$1,885,000
 
 <div class="datatable-end"></div>
 
