@@ -79,6 +79,8 @@ Year|Funder|Grant Name/Desc|Amount
 
 ![Innovation Offices](/assets/img/projects/innovation/opioffices.jpg)
 
+{% include image.html file="/assets/img/projects/innovation/opioffices.jpg" url="http://opi.lsvlll.io" alt="OPI Offices" caption="OPI Offices on Main Street" max-width="200" %}
+
 ## Innovation Awards
 
 - Ted Smith, White House “Champion of Change” 2012 
