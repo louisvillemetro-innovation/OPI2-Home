@@ -15,9 +15,6 @@ goals:
   subtitle_markdown: The quality of being tenacious, or of holding fast; persistence.         
 goals_section_headline: Core Values
 staff_section_headline: Staff
-fellows_section_headline: Current Innovation Fellows
+
 ---
 
-## Organization Chart
-
-![OPI2 Org Chart](/assets/img/projects/opi-orgchart.jpg)
