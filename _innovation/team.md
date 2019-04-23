@@ -8,3 +8,7 @@ position: 1
 {% include page-section--people-team.html
   section_headline=page.staff_section_headline
   people=staff %}
+
+
+![Innovation Org Chart](/assets/img/projects/innovation/innovation-orgchart.jpg)
+
