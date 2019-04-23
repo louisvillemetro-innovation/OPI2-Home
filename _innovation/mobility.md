@@ -52,6 +52,8 @@ We publish online all of our city's [road closures and construction](https://dat
 * [Amazon's Partnership](https://aws.amazon.com/blogs/publicsector/city-of-louisville-builds-a-traffic-analysis-model-using-open-data-and-machine-learning/)
 * [Open Government Coalition: How this helps with similar projects](https://datasmart.ash.harvard.edu/news/article/how-create-open-source-projects-and-get-private-companies-pay-it-0)
 
+![Waze Dashboard](/assets/img/projects/smart-mobility/mobility-waze2.png)
+
 ### Intelligent Transportation System Plan
 
 Providing transportation infrastructure is one of the most important jobs of a local government. Over the past 100 years, Louisville Metro has built roads and transit systems to efficiently and effectively move people and goods. Providing this transportation infrastructure will continue to be a core responsibility of our government. This plans lays out necessary technology and data components of our transportation network are also built out and maintained because data and technology will power transportation in the near future.
