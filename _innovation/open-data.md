@@ -8,7 +8,7 @@ image_path: "/assets/img/projects/opendata/opendata-homepage.jpg"
 permalink: "innovation/open-data/"
 ---
 
-Louisville's [Data Officer](https://twitter.com/LouDataOfficer) in the Office of Civic Innovation and Technology runs our city's [open data website](https://data.louisvilleky.gov/), which is government transparency and accountability in action.  Each department has a [Data Governance](/innovation/data-governance/) representative that is responsible for managing their open data publishing.
+Louisville's [Data Officer](/innovation/data-officer/) in the Office of Civic Innovation and Technology runs our city's [open data website](https://data.louisvilleky.gov/), which is government transparency and accountability in action.  Each department has a [Data Governance](/innovation/data-governance/) representative that is responsible for managing their open data publishing.
 
 Open data, public transparency, and data-driven efforts in Louisville remain a strong and continuing priority for Mayor Greg
 Fischer and the Office of Civic Innovation.  The Data Governance team works to release new data the public values, improve existing data sets, provide accurate metadata, and increase the frequency of data updates and automation. 
