@@ -5,7 +5,6 @@ position: 2
 date: 2019-04-23 00:00:00 Z
 excerpt: The Office of Civic Innovation and Technology has brought in over $13 million dollars in the past 7 years in grant dollars and in-kind funding, representing over 26 years of our entire current annual staff funding and budget.
 image_path: "/assets/img/projects/innovation/teambanner.jpg"
-datatable: true
 permalink: "innovation/accomplishments/"
 ---
 
@@ -19,28 +18,29 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 
 ### Grand Total: $13,589,568
 
-
-<div class="datatable-begin"></div>
-
-Year|Funder|Grant Name/Desc|Amount
--------|--------|---------|---------
-2012|IBM|Smarter Cities|$400,000
-2014|Bloomberg Philanthropies|What Works Cities|$750,000
-2015|Amazon Web Services|City on a Cloud|$50,000
-2017|Amazon Web Services|City on a Cloud|$50,000
-2018|Smart Cities Council|Readiness Challenge|$500,000
-2018|University of Kentucky|Mayors Challenge|$75,000
-2019|Stae|Civic Sandbox - transportation|$50,000
-2019|What Works Cities|GovEx Training|$10,000
-|| Total|$1,885,000
-
-<div class="datatable-end"></div>
-
 ### Cash Awards
 
+<table><colgroup><col width="" /><col width="" /><col width="" /><col width="" /></colgroup><thead>
+<tr class="header"><th>Year</th><th>Funder</th><th>Grant Name</th><th>Amount</th></tr></thead>
+<tbody>
+<tr>
+<td markdown="span" nowrap>
+  2012
+</td>
+<td markdown="span">
+  Bloomberg Philanthropies
+</td>
+<td markdown="span">
+  Innovation Delivery Team
+</td>
+<td markdown="span" nowrap>
+  $4,800,000
+</td>  
+</tr>
+</tbody></table>
+
 |Year|Funder|Grant Name|Amount|
-|-------|--------|---------|---------|
-|2012|Bloomberg Philanthropies|Innovation Delivery Team|$4,800,000|
+|-------|--------|---------|---------|\
 |2014|Living Cities|City Accelerator|$200,000|
 |2014|US Dept of Labor|Workforce Innovation - Code Louisville|$2,900,000|
 |2015|Robert Wood Johnson Foundation|Pioneer Grant - Air Louisville|$1,000,000|
@@ -78,8 +78,6 @@ Year|Funder|Grant Name/Desc|Amount
 |||**In-Kind Total**|**$1,885,000**|
 
 ![Innovation Offices](/assets/img/projects/innovation/opioffices.jpg)
-
-{% include image.html file="/assets/img/projects/innovation/opioffices.jpg" url="http://opi.lsvlll.io" alt="OPI Offices" caption="OPI Offices on Main Street" max-width="200" %}
 
 ## Innovation Awards
 
