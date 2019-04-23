@@ -16,14 +16,17 @@ While private companies have had Chief Data Officers for years to save money, cr
 
 The Data Officer is responsible for the city's [Open Data website](/innovation/open-data/), including public feedback, data quality, proactive publishing of data, automation, working with department data experts, policy revisions, annual reports, updates, and data privacy. 
 
+![Open data gallery](/assets/img/projects/opendata/opendata-gallery.jpg)
+
 ## Data Governance
 
 The Data Officer runs the city's internal [Data Governance team](/innovation/data-governance/) which includes 60+ Metro employees that work with data and represent every city department and has built a data-driven culture across the city, breaking down silos and fostering collaboration.
 
+![Data governance meeting](/assets/img/projects/data-governance/datagov-meeting444.jpg)
+
 ## Automation and Improvement
 
 The Data Officer is creating the city's first data warehouse and automation system to allow departments to see each other's data for the first time, save time by improving the flow of data across systems and to the public, and create tools for departments, city leaders, and the public to make informed decisions about funding, prioritization, and optimization of data-driven projects and decisions.
-
 
 ## Project Examples
 
@@ -67,8 +70,9 @@ Training for Data Governance employees using [WWC GovEx courses](http://courses.
 
 Annual Open Data Reports cataloging progress ([2018](https://medium.com/louisville-metro-opi2/louisville-annual-open-data-report-2018-314c958dfe52)).
 
+Organizes public events, meetings, and [hackathons](/innovation/social-innovation/) around open data and transparency.
 
-### Chief Data Officer Value
+## Chief Data Officer Value
 
 Harvard Kennedy School - [Discovering the True Value of City Data Experts](https://datasmart.ash.harvard.edu/news/article/discovering-the-true-value-of-data-experts-who-are-showing-cities-the-money)
 
@@ -80,7 +84,7 @@ Smart Cities Dive - [Rise of the Chief Data Officer](https://www.smartcitiesdive
 
 AWS Institute - [The Chief Data Officer as a Data Leader](https://aws.amazon.com/blogs/publicsector/the-rise-of-the-chief-data-officer-as-a-data-leader/)
 
-### Data Officer Press
+## Data Officer Press
 
 [Louisville Press Release](https://louisvilleky.gov/news/louisville-metro-hires-first-data-officer-further-advance-data-driven-decision-making-efforts) - Louisville Metro hires first data officer to further advance data-driven decision-making efforts - Sept 29 2016
 
