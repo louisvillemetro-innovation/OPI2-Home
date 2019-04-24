@@ -115,11 +115,20 @@ Our skilled employees are our most essential asset, and we want to make sure we 
 
 ## What Works Cities
 
-The Data Governance team has been essential in our city's overall [What Works Cities certification](https://medium.com/@WhatWorksCities/louisville-a-data-savvy-approach-from-louielab-to-louiestat-6801da2b3d5a) starting in 2017 with one of 8 cities out of 230 to get Silver Certification (plus LA which got Gold).  In 2017 we achieved 100% in the Open Data category, our single 100% across the six measures. While we only reached 40% in the Data Governance category, the team has been working hard in 2018 and 2019 to achieve 100% in both categories, plus the new Public Stakeholder Engagement category.  
+Louisville is a Bloomberg [What Works Cities certified Gold partner](https://medium.com/what-works-cities-certification/kansas-city-louisville-and-washington-dc-level-up-cef847c62a6f) in 2019. 1,400 cities are eligible, with nearly 90 submitting assessments, and only 3 achieving Gold and 4 Silver.
 
-![What Works Cities 2017](/assets/img/projects/data-governance/datagov-wwc2017.jpg)
+The Data Governance team has been essential in our city's overall What Works Cities certification starting in 2017 with [one of 8 cities out of 230 to get Silver Certification](https://medium.com/@WhatWorksCities/louisville-a-data-savvy-approach-from-louielab-to-louiestat-6801da2b3d5a) (plus LA which got Gold).  
 
+In 2017 we achieved 100% in the Open Data category, our single 100% across the six measures. We only reached 40% in the Data Governance category, but the team worked hard in 2018 and 2019 to achieve 100% in both the Open Data and Data Governance categories, plus 100% in the new Public Stakeholder Engagement category.  
+
+*2019 Gold Certification:*
+![What Works Cities 2019](/assets/img/projects/data-governance/datagov-wwc2019.jpg)
+
+*2018 Progress Tracking Board:*
 ![What Works Cities Trello Board](/assets/img/projects/data-governance/datagov-wwc.jpg)
+
+*2017 Silver Certification:*
+![What Works Cities 2017](/assets/img/projects/data-governance/datagov-wwc2017-all.jpg)
 
 <div class="end-xs hidden-xs col-md-4 button-wrap">
 <a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/data-governance/">Learn More</a>
