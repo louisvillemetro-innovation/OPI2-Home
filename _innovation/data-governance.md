@@ -115,7 +115,7 @@ Our skilled employees are our most essential asset, and we want to make sure we 
 
 ## What Works Cities
 
-Louisville is a Bloomberg [What Works Cities certified Gold partner](https://medium.com/what-works-cities-certification/kansas-city-louisville-and-washington-dc-level-up-cef847c62a6f) in 2019. 1,400 cities are eligible, with nearly 90 submitting assessments, and only 3 achieving Gold and 4 Silver.
+Louisville is a Bloomberg [What Works Cities certified Gold partner](https://medium.com/what-works-cities-certification/kansas-city-louisville-and-washington-dc-level-up-cef847c62a6f) in 2019. 1,400 cities are eligible, with nearly 90 submitting assessments, and only 3 achieving Gold and 4 Silver.  Read about the [assessment guidelines](https://medium.com/what-works-cities-certification/what-works-cities-certification-assessment-guide-5c514f1dff1b) on the WWC site.
 
 The Data Governance team has been essential in our city's overall What Works Cities certification starting in 2017 with [one of 8 cities out of 230 to get Silver Certification](https://medium.com/@WhatWorksCities/louisville-a-data-savvy-approach-from-louielab-to-louiestat-6801da2b3d5a) (plus LA which got Gold).  
 
