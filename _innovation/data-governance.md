@@ -130,6 +130,8 @@ In 2017 we achieved 100% in the Open Data category, our single 100% across the s
 *2017 Silver Certification:*
 ![What Works Cities 2017](/assets/img/projects/data-governance/datagov-wwc2017-all.jpg)
 
+So what does this mean for residents? [WWC has seen](https://medium.com/@BloombergCities/5-lessons-from-the-best-data-driven-cities-502f6ce9ef09) that well-managed cities are better solving the problems facing their communities and addressing residents' needs. They are stretching every dollar by using data to set priorities, budget effectively, and ensure investments are producing results. 
+
 <div class="end-xs hidden-xs col-md-4 button-wrap">
 <a class="usa-button usa-button-outline link--external" href="https://projects.lsvll.io/projects/data-governance/">Learn More</a>
 </div>{: .center-image }
