@@ -25,17 +25,7 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 
 ### In-Kind Awards
 
-|Year|Funder|Grant Name|Amount|
-|-------|--------|---------|---------|
-|2012|IBM|Smarter Cities|$400,000|
-|2014|Bloomberg Philanthropies|What Works Cities|$750,000|
-|2015|Amazon Web Services|City on a Cloud|$50,000|
-|2017|Amazon Web Services|City on a Cloud|$50,000|
-|2018|Smart Cities Council|Readiness Challenge|$500,000|
-|2018|University of Kentucky|Mayors Challenge|$75,000|
-|2019|Stae|Civic Sandbox - transportation|$50,000|
-|2019|What Works Cities|GovEx Training|$10,000+|
-|||**In-Kind Total**|**$1,885,000**|
+**$1,885,000** - includes IBM, Bloomberg Philanthropies, Amazon Web Services, Stae, Smart Cities Council, and What Works Cities.  Full details and a breakdown coming soon.
 
 ![Innovation Offices](/assets/img/projects/innovation/opioffices.jpg)
 
