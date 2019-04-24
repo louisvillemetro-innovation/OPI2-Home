@@ -20,46 +20,8 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 
 ### Cash Awards
 
-<table><colgroup><col width="" /><col width="" /><col width="" /><col width="" /></colgroup><thead>
-<tr class="header"><th>Year</th><th>Funder</th><th>Grant Name</th><th>Amount</th></tr></thead>
-<tbody>
-<tr>
-<td markdown="span" nowrap>
-  2012
-</td>
-<td markdown="span">
-  Bloomberg Philanthropies
-</td>
-<td markdown="span">
-  Innovation Delivery Team
-</td>
-<td markdown="span" nowrap>
-  $4,800,000
-</td>  
-</tr>
-<tr><td markdown="span">2012</td><td markdown="span">Bloomberg Philanthropies</td><td markdown="span">Innovation Delivery Team</td><td markdown="span">$4,800,000</td></tr>
-<tr><td markdown="span">2014</td><td markdown="span">Living Cities</td><td markdown="span">City Accelerator</td><td markdown="span">$200,000</td></tr>
-<tr><td markdown="span">2014</td><td markdown="span">US Dept of Labor</td><td markdown="span">Workforce Innovation - Code Louisville</td><td markdown="span">$2,900,000</td></tr>
-<tr><td markdown="span">2015</td><td markdown="span">Robert Wood Johnson Foundation</td><td markdown="span">Pioneer Grant - Air Louisville</td><td markdown="span">$1,000,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Anonymous</td><td markdown="span">Green for Good</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Benton Foundation (Next Century Cities)</td><td markdown="span">Gigabit Experience Center</td><td markdown="span">$30,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Community Foundation of Louisville</td><td markdown="span">Culture of Health</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Funders Network for Smart Growth and Livable Communities</td><td markdown="span">Green for Good</td><td markdown="span">$75,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Kauffman Foundation</td><td markdown="span">SummerUps</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Owsley Brown Charitable Foundation</td><td markdown="span">Green for Good</td><td markdown="span">$50,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">PNC Foundation</td><td markdown="span">Gigabit Experience Center</td><td markdown="span">$50,000</td></tr>
-<tr><td markdown="span">2016</td><td markdown="span">Robert Wood Johnson Foundation</td><td markdown="span">Culture of Health</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2017</td><td markdown="span">James Graham Brown Foundation</td><td markdown="span">American Printing House for the Blind Indoor Explorer</td><td markdown="span">$250,000</td></tr>
-<tr><td markdown="span">2017</td><td markdown="span">PNC Foundation</td><td markdown="span">Gigabit Experience Center</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2018</td><td markdown="span">Amazon Web Services</td><td markdown="span">Open Government Coalition Waze CCP</td><td markdown="span">$40,000</td></tr>
-<tr><td markdown="span">2018</td><td markdown="span">Bloomberg Philanthropies</td><td markdown="span">Mayors Challenge</td><td markdown="span">$100,000</td></tr>
-<tr><td markdown="span">2018</td><td markdown="span">PNC Foundation</td><td markdown="span">Gigabit Experience Center</td><td markdown="span">$25,000</td></tr>
-<tr><td markdown="span">2018</td><td markdown="span">US HUD</td><td markdown="span">Critical Community Improvement</td><td markdown="span">$400,000</td></tr>
-<tr><td markdown="span">2019</td><td markdown="span">Google Fiber</td><td markdown="span">CFL Digital Inclusion Fund</td><td markdown="span">$150,000</td></tr>
-<tr><td markdown="span">2019</td><td markdown="span">JP Morgan Chase</td><td markdown="span">Advancing Cities - Digital Inclusion (part of larger $3M grant)</td><td markdown="span">$70,000</td></tr>
-<tr><td markdown="span">2019</td><td markdown="span">KYTC</td><td markdown="span">Congestion Mitigation Air Quality (CMAQ)</td><td markdown="span">$1,439,568</td></tr>
-<tr><td markdown="span"></td><td markdown="span"></td><td markdown="span"><strong>Cash Total</strong></td><td markdown="span" nowrap><strong>$11,704,568</strong></td></tr>
-</tbody></table>
+**$11,704,568** - includes Bloomberg Philanthropies, US Dept of Labor, Kauffman Foundation, Robert Wood Johnson Foundation, PNC Foundation, US Housing and Urban Development, Kentucky Transportation Cabinet from US DOT, Amazon Web Services, and JP Morgan Chase.  Full details and a breakdown coming soon.
+
 
 ### In-Kind Awards
 
