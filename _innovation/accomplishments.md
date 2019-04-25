@@ -56,6 +56,6 @@ This funding helps us fulfill our vision of preparing Louisville Metro for emerg
 - Center for Digital Government [1st place winner for Best Overall City Government Experience](https://www.govtech.com/cdg/government-experience/Government-Experience-Awards-2018-Winners-Announced.html) 2018 
 - [Stae Civic Sandbox](https://medium.com/city-as-a-service/co-creating-with-cities-announcing-the-stae-civic-data-sandbox-b901d4f7c3bb) 2019
 - IDC [Smart Cities Award Transportation Infrastructure](https://www.idc.com/getdoc.jsp?containerId=prUS45007919) Category for Waze WARP and OGC 2019 
-- [What Works Cities Gold Certification for 2019]() - like an independent outside audit of our efforts
+- [What Works Cities Gold Certification for 2019](https://medium.com/what-works-cities-certification/kansas-city-louisville-and-washington-dc-level-up-cef847c62a6f) - like an independent outside audit of our efforts
 
 ![WWC Gold Team](/assets/img/projects/wwc-Team-2018-adjusted.jpg)
