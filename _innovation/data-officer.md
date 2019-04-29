@@ -68,7 +68,7 @@ Founding the [Open Government Coalition](https://www.govintheopen.com/) – Citi
 
 Training for Data Governance employees using [WWC GovEx courses](http://courses.govex.academy/catalog) - $10-50K.
 
-Annual Open Data Reports cataloging progress ([2018](https://medium.com/louisville-metro-opi2/louisville-annual-open-data-report-2018-314c958dfe52)).
+Annual Open Data Report - cataloging our progress ([2018](https://medium.com/louisville-metro-opi2/louisville-annual-open-data-report-2018-314c958dfe52)).
 
 Organizes public events, meetings, and [hackathons](/innovation/social-innovation/) around open data and transparency.
 
