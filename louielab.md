@@ -56,7 +56,7 @@ Louisville, KY 40202
 
 ## LouieLab Opening
 
-Watch this video to learn more about the LouieLab and we create there:
+Watch this video to learn more about the LouieLab and how we co-create with the public, as resident's front door to government:
 
 <iframe width="825" height="400" src="https://www.youtube.com/embed/oDo8ufORQc8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
