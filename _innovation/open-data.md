@@ -37,7 +37,7 @@ Open data reduces the quantity of and time it takes to fulfill open records requ
 
 The Civic Innovation office cultivates the relationship with our passionate volunteer groups helping to make us more efficient and push the limits of what city government can do for residents. Louisville has a robust volunteer civic technology ecosystem that [originated back in 2006](http://bit.ly/CivicDataHistory), with some volunteers now working within city government.  
 
-[Code for Kentuckiana](https://codeforkentuckiana.org/) is the Louisville chapter of the national [Code for America]() non-profit. Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.  Code for Kentuckiana's mission is to organize and advocate for the use of public data and technology to make Louisville and Southern Indiana a more safe, resilient, and equitable place.
+[Code for Kentuckiana](https://codeforkentuckiana.org/) is the Louisville chapter of the national [Code for America](https://www.codeforamerica.org/) non-profit. Currently, there are 70+ Brigades across the United States, bringing together community organizers, developers, and designers to use technology to improve the lives of citizens.  Code for Kentuckiana's mission is to organize and advocate for the use of public data and technology to make Louisville and Southern Indiana a more safe, resilient, and equitable place.
 
 ![Code for Kentuckiana](/assets/img/projects/opendata/opendata-codeforkentuckiana.jpg)
 

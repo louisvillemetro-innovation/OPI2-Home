@@ -15,17 +15,19 @@ The Office of Performance Improvement & Innovation views hackathons as a key com
 
 ### External
 
-- Code for Kentuckiana (Code for America) Partnership
+- [Code for Kentuckiana](https://codeforkentuckiana.org/) ([Code for America](https://www.codeforamerica.org/)) non-profit  Partnership
+- [Smart City Workshop](https://medium.com/louisville-metro-opi2/louisville-1st-annual-smart-city-workshop-8f4380f0f333)
 - National Civic Data of Hacking
-- Inernational Open Data Day
-- Smart Home / IOT Hackathon @ GEC
-- Hack for Change Food Insecurity
+- [Inernational Open Data Day](https://medium.com/louisville-metro-opi2/louisvilles-open-data-day-public-safety-alexa-firearms-e09fec2f6f7e)
+- [Smart Home / IOT Hackathon](https://www.meetup.com/codeforkyana/events/241383507/) @ GEC
+- [Hack for Change Food Insecurity](https://www.meetup.com/codeforkyana/events/247089007/)
+- [Digital Inclusion Design Jam](https://medium.com/louisville-metro-opi2/digital-inclusion-design-jam-part-2-the-results-de13831fdf9c)
 
 ### Internal
 
-- Waze Data – Utilizing data from our Waze CCP Partnership across multiple internal agencies to create new tools and uses cases for Waze traffic data.
+- [Waze Data](https://medium.com/louisville-metro-opi2/waze-louisvilles-first-internal-hackathon-647363a85392) – Utilizing data from our Waze CCP Partnership across multiple internal agencies to create new tools and uses cases for Waze traffic data.
 
-- Analog Hackathon – An accessible, trojan horse hackathon training tool we utilize to make the concept of a hackathon accessible and approachable to non-technical participants.
+- [Analog Hackathon](https://medium.com/louisville-metro-opi2/analog-hackathons-engagement-and-ideas-without-tech-86b2a78f2473) – An accessible, trojan horse hackathon training tool we utilize to make the concept of a hackathon accessible and approachable to non-technical participants.
 
 
 ### Press
