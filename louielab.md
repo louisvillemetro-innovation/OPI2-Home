@@ -40,6 +40,8 @@ The co-working space is open during regular business hours to any member of the 
 
 The LouieLab is open from 8am-5pm. Those seeking space for events, meetings, or work space outside of normal business hours must have a sponsor from the Mayor’s Innovation Advisory Council, or the Office of Performance Improvement and Innovation. Event sponsors must stay for the duration of events held at the LouieLab.  
 
+### Entrance
+
 ![LouieLab](/assets/img/louielab/louielab-entrance-exterior.jpg)
 
 ## Map
@@ -55,7 +57,7 @@ Louisville, KY 40202
 
 <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!4v1561133732562!6m8!1m7!1sy0i9sg0ejLq7iIgiYV4kdg!2m2!1d38.25733513833077!2d-85.7630061781138!3f352.96325268368906!4f13.955710314333572!5f0.7820865974627469" width="850" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Entrance
+### Building Exterior
 
 ![LouieLab](/assets/img/louielab/louielab-outside.jpg)
 
