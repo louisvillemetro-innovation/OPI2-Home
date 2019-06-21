@@ -27,7 +27,7 @@ The LouieLab is Louisville Metro Government’s civic innovation space. It is ov
 
 ## Events
 
-Since its inception in 2018 the LouieLab has freely hosted hundreds of events, and over a hundred external organizations, non-profits, companies, and visiting governments.  Some examples include:
+Since its inception in 2017 the LouieLab has freely hosted hundreds of events, and over a hundred external organizations, non-profits, companies, and visiting governments.  Some examples include:
 
 - Hackathons and meetings for [Code for Kentuckiana](https://codeforkentuckiana.org/), the Louisville chapter of the national [Code for America](https://www.codeforamerica.org/) non-profit.
 - Hosting a national Department of Transportation conference ([event pictures](https://twitter.com/LouDataOfficer/status/902274488238264321)) ([activity pictures](https://twitter.com/LouDataOfficer/status/902606191251087360))
