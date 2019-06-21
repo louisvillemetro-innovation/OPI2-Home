@@ -49,7 +49,9 @@ The LouieLab is open from 8am-5pm. Those seeking space for events, meetings, or 
 4th Floor  
 Louisville, KY 40202
 
-<iframe allowfullscreen="" class="embed-responsive-item" frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.9499082873117!2d-85.7651433844364!3d38.2574677920135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886972a1157a47ff%3A0x3ebce4d393871675!2sLouieLab!5e0!3m2!1sen!2sus!4v1490728667811" style="border:0" width="825"></iframe>
+<iframe allowfullscreen="" class="embed-responsive-item" frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.9499082873117!2d-85.7651433844364!3d38.2574677920135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886972a1157a47ff%3A0x3ebce4d393871675!2sLouieLab!5e0!3m2!1sen!2sus!4v1490728667811" style="border:0" width="600"></iframe>
+
+<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!4v1561133732562!6m8!1m7!1sy0i9sg0ejLq7iIgiYV4kdg!2m2!1d38.25733513833077!2d-85.7630061781138!3f352.96325268368906!4f13.955710314333572!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ![LouieLab](/assets/img/louielab/louielab-outside.jpg)
 
