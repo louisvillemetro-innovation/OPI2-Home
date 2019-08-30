@@ -6,7 +6,7 @@ permalink: "innovation/"
 ---
 
 ### Mission Statement:
->The Office of Civic Innovation builds data and 
+>The Office of Civic Innovation and Technology (CIT) builds data and 
 >technology platforms to ready our government for 
 >our community's digital future
 
@@ -21,7 +21,8 @@ permalink: "innovation/"
 The Louisville Metro Innovation Team was established in 2011 as part of the pioneer cohort of Bloomberg innovation teams. While funded by Bloomberg, the i-team took on challenges such as Vacant & Abandoned Properties, Wet/Dry Recycling, and Public Wifi.
   
 This work supported Mayor Fischer's overall strategy for the city by working on some of the biggest identified challenges in Louisville Metro as a community and as an enterprise. In 2015, the Bloomberg funding ended and the i-team merged with the Office of Performance Improvement to become the Office of Performance Improvement and Innovation (OPI2).
-  
+
+In July 2019, the innovation side of OPI2 was merged into the Department of Information Technology (DoIT) and now we are collectively the Office of Civic Innovation and Technology (CIT).  Updates to this site and more details are coming soon.
   
 <iframe width="825" height="400" src="https://www.youtube.com/embed/OeylVsbk0B4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > Grace Simrall, Chief of Civic Innovation & Technology, talking about Civic Innovation
