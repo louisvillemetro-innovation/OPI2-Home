@@ -1,11 +1,14 @@
 ---
 title: Innovation Accomplishments
-layout: sidebar-page
+layout: redirected
+sitemap: false
+permalink: "innovation/accomplishments/"
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/innovation-accomplishments"
 position: 2
 date: 2019-04-23 00:00:00 Z
 excerpt: The Office of Civic Innovation and Technology has brought in over $13 million dollars in the past 7 years in grant dollars and in-kind funding, representing over 26 years of our entire current annual staff funding and budget.
 image_path: "/assets/img/projects/innovation/teambanner.jpg"
-permalink: "innovation/accomplishments/"
+
 ---
 
 The Office of Civic Innovation and Technology has brought in over $13 million dollars in the past 7 years in grant dollars and in-kind funding, representing over 26 years of our entire current annual staff funding and budget.
