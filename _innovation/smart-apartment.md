@@ -1,8 +1,11 @@
 ---
 title: Smart Apartment
-layout: sidebar-page
-position: 8
+layout: redirected
+sitemap: false
 permalink: "innovation/smart-apartment/"
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/smart-apartment"
+position: 8
+
 ---
 
 <img align="left" src="/assets/img/projects/p3/cnet.jpg"> CNet's Urban Smart Home is a 1,400 square foot apartment that CNET has filled with the latest technology to automate living spaces and connect them with data that can put them in the fast lane for the digital age. It's a natural extension of the CNET Smart Home, a suburban showcase home in Louisville that CNET owns and has been using to test and report on the latest home tech for the past several years.
