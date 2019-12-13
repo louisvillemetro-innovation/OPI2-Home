@@ -1,6 +1,8 @@
 ---
 title: Smart City
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/smart-city"
 position: 9
 permalink: "innovation/smart-city/"
 ---

@@ -1,6 +1,8 @@
 ---
 title: LouieLab
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/louielab"
 lede_markdown: LouieLab is a civic innovation hub for public-private collaboration, and coworking space that features an open office and run by OPI. It is a physical manifestation of continuous improvement and innovation that are the foundation of Louisville Metro Government. This space is available to the public for events and co-working. Events held at the LouieLab must have a public benefit in order to reserve the space for free.
 ---
 **To reserve the lab for your event, please email us at oci@louisvilleky.gov**

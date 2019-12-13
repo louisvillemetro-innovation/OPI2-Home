@@ -1,6 +1,8 @@
 ---
 title: Mobility
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/mobility"
 position: 6
 permalink: "innovation/smart-mobility/"
 ---

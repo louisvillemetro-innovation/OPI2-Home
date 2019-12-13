@@ -1,6 +1,8 @@
 ---
 title: Open Data
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/open-data"
 position: 7
 date: 2019-04-22 00:00:00 Z
 excerpt: Louisville's Data Officer in the Office of Civic Innovation and Technology and Data Governance runs our city's open data website, which is government transparency and accountability in action. 

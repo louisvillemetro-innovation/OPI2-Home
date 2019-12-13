@@ -1,7 +1,9 @@
 ---
 title: Citizen Services
 date: 2017-08-28 00:00:00 Z
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/citizen-services"
 position: 3
 image_path: "/assets/img/projects/citizen-services/digital-services.jpg"
 permalink: "innovation/citizen-services/"

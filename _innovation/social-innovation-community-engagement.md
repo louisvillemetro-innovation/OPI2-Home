@@ -1,6 +1,8 @@
 ---
 title: Social Innovation
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/social-innovation"
 position: 10
 permalink: "innovation/social-innovation/"
 ---
