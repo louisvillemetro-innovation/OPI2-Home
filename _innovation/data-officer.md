@@ -1,6 +1,8 @@
 ---
 title: Data Officer
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/data-officer"
 position: 4
 date: 2019-04-22 18:00:00 Z
 excerpt: Louisville's first Data Officer runs the city's open data website, data governance team, data analytics projects, data warehousing, external partnerships, and automation across the city. 
