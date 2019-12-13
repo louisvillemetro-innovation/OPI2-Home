@@ -11,5 +11,5 @@ position: 1
 
 ## Innovation Organization Chart
 
-![Innovation Org Chart](/assets/img/projects/innovation/innovation-orgchart.jpg)
+![Civic Innovation and Technology Org Chart](/assets/img/projects/innovation/cit-orgchart.jpg)
 
