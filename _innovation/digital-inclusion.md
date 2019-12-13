@@ -1,6 +1,8 @@
 ---
 title: Digital Inclusion
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/digital-inclusion"
 position: 5
 project_name: Digital Inclusion
 subtitle: with Louisville Metro residents
