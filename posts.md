@@ -1,7 +1,7 @@
 ---
 title: OPI2 Posts
 permalink: "/posts/"
-layout: posts
+layout: about
 lede_markdown: We work with internal and external partners to evolve Louisville into
   a next generation smart city.
 lede_button_text: Read more on Medium
