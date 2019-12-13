@@ -1,6 +1,8 @@
 ---
 title: Office of Civic Innovation
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/civic-innovation"
 position: 0
 permalink: "innovation/"
 ---
