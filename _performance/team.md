@@ -1,6 +1,8 @@
 ---
 title: The Team
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/performance-improvement/about-us"
 position: 1
 ---
 {% assign staff = site.people | where: "agency", "opi" | sort: "start_date"  %}
