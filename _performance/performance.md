@@ -1,6 +1,8 @@
 ---
 title: Performance Improvement
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/performance-improvement/department-home"
 position: 0
 permalink: "performance/"
 photo_path: "/assets/img/performance-team.jpg"   
