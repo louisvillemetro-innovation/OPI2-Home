@@ -1,6 +1,8 @@
 ---
 title: LouieStat
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/performance-improvement/louiestat-0"
 position: 2
 lede_markdown: What results are we trying to achieve?
 ---
