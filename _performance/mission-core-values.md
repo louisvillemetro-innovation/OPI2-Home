@@ -1,6 +1,8 @@
 ---
 title: Our Mission & Core Values
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/performance-improvement/awards-and-news"
 position: 2
 lede_markdown:
 ---
