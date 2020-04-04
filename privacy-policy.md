@@ -1,7 +1,9 @@
 ---
 title: Privacy Policy
 permalink: "/privacy"
-layout: full-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/privacy-statement"
 sitemap: false
 ---
 
