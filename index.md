@@ -1,7 +1,9 @@
 ---
 title: Changing Up Local Government
 permalink: "/index.html"
-layout: home
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/civic-innovation"
 image: "/assets/img/home.jpg"
 secondary_headline: Improve & Innovate
 secondary_lede_markdown: Innovation is the foundation of Louisville Metro Government,
