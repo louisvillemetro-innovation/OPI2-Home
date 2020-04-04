@@ -1,7 +1,9 @@
 ---
 title: OPI2 Posts
 permalink: "/posts/"
-layout: about
+layout: redirected
+sitemap: false
+redirect_to:  "https://medium.com/louisville-metro-opi2/this-publication-is-archived-20cdcdbf1f2c"
 lede_markdown: We work with internal and external partners to evolve Louisville into
   a next generation smart city.
 lede_button_text: Read more on Medium
