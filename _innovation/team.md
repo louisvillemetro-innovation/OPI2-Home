@@ -1,6 +1,8 @@
 ---
 title: Innovation Team
-layout: sidebar-page
+layout: redirected
+sitemap: false
+redirect_to:  "https://louisvilleky.gov/government/civic-innovation-and-technology/about-us"
 position: 1
 ---
 
